@@ -1,0 +1,203 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\PRIYANKA\AndroidStudioProjects\Knowmore\KiddoLearn\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="a549fbe570d551dee3d8de373ed479eea98b88be">
+        <dex dex="C:\Users\PRIYANKA\AndroidStudioProjects\Knowmore\KiddoLearn\app\build\intermediates\pre-dexed\debug\instant-run-bootstrap_48ce57f3f896bc9b7fc3f27e6ab3129b71b567f2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\PRIYANKA\AndroidStudioProjects\Knowmore\KiddoLearn\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.1.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="aee64634871d88a419d59eb743c1258a60f19700">
+        <dex dex="C:\Users\PRIYANKA\AndroidStudioProjects\Knowmore\KiddoLearn\app\build\intermediates\pre-dexed\release\com.android.support-support-core-ui-25.1.0_e943f510decfd9b2a540edd0f728d52e67859cd5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\PRIYANKA\AndroidStudioProjects\Knowmore\KiddoLearn\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.1.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="0a0ef86b7fa568a52bf6214a0326ca1f1d618da7">
+        <dex dex="C:\Users\PRIYANKA\AndroidStudioProjects\Knowmore\KiddoLearn\app\build\intermediates\pre-dexed\release\com.android.support-support-core-utils-25.1.0_f5d820be1f00705ac58eadfd166f0b77a1d57ad8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\PRIYANKA\AndroidStudioProjects\Knowmore\KiddoLearn\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\25.1.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="6fb6ac3e8d3b9013819920d9ea11f3803c4c0033">
+        <dex dex="C:\Users\PRIYANKA\AndroidStudioProjects\Knowmore\KiddoLearn\app\build\intermediates\pre-dexed\debug\com.android.support-animated-vector-drawable-25.1.0_e013e1120eef85febd3f2e128b968fdcb0493943.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\PRIYANKA\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\25.1.0\support-annotations-25.1.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="64cb6b229a8bdfd907bc8dd46839a0053e4c018d">
+        <dex dex="C:\Users\PRIYANKA\AndroidStudioProjects\Knowmore\KiddoLearn\app\build\intermediates\pre-dexed\debug\support-annotations-25.1.0_beb441309894020db3d9b8b82a1d6d7ed74e4d9f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\PRIYANKA\AndroidStudioProjects\Knowmore\KiddoLearn\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.1.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="0a0ef86b7fa568a52bf6214a0326ca1f1d618da7">
+        <dex dex="C:\Users\PRIYANKA\AndroidStudioProjects\Knowmore\KiddoLearn\app\build\intermediates\pre-dexed\debug\com.android.support-support-core-utils-25.1.0_f5d820be1f00705ac58eadfd166f0b77a1d57ad8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\PRIYANKA\AndroidStudioProjects\Knowmore\KiddoLearn\app\build\intermediates\exploded-aar\com.android.support\support-fragment\25.1.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="2a53c4f3518116b8c6aee0e477233f0f7da8616f">
+        <dex dex="C:\Users\PRIYANKA\AndroidStudioProjects\Knowmore\KiddoLearn\app\build\intermediates\pre-dexed\debug\com.android.support-support-fragment-25.1.0_ede508049600cd4a6fe0d739feb3ad514ad152f6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\PRIYANKA\AndroidStudioProjects\Knowmore\KiddoLearn\app\build\intermediates\exploded-aar\com.android.support\support-v4\25.1.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="C:\Users\PRIYANKA\AndroidStudioProjects\Knowmore\KiddoLearn\app\build\intermediates\pre-dexed\release\com.android.support-support-v4-25.1.0_4d7cc6a70cf1a4bc5a756c67cd3db02958f06008.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\PRIYANKA\AndroidStudioProjects\Knowmore\KiddoLearn\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ed5d2a1b84b6cd9ecc3f6213a1a19f0e5eee8bbf">
+        <dex dex="C:\Users\PRIYANKA\AndroidStudioProjects\Knowmore\KiddoLearn\app\build\intermediates\pre-dexed\debug\instant-run_290a251c8c98e61de0f3245ceb5051a6e803e702.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\PRIYANKA\AndroidStudioProjects\Knowmore\KiddoLearn\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\25.1.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="1630658fbc2d222b988603c27b4a4249586fbfe7">
+        <dex dex="C:\Users\PRIYANKA\AndroidStudioProjects\Knowmore\KiddoLearn\app\build\intermediates\pre-dexed\debug\com.android.support-appcompat-v7-25.1.0_278eec1c2e52a9cd8cc9746c997e2b0f09a949ea.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\PRIYANKA\AndroidStudioProjects\Knowmore\KiddoLearn\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\25.1.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="1630658fbc2d222b988603c27b4a4249586fbfe7">
+        <dex dex="C:\Users\PRIYANKA\AndroidStudioProjects\Knowmore\KiddoLearn\app\build\intermediates\pre-dexed\release\com.android.support-appcompat-v7-25.1.0_278eec1c2e52a9cd8cc9746c997e2b0f09a949ea.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\PRIYANKA\AndroidStudioProjects\Knowmore\KiddoLearn\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.1.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ca3c7aa31e2726a400a6e552b93cb9f63c9a1e6d">
+        <dex dex="C:\Users\PRIYANKA\AndroidStudioProjects\Knowmore\KiddoLearn\app\build\intermediates\pre-dexed\release\com.android.support-support-compat-25.1.0_f887e092d6583f4106025f057eecbd7b25553486.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\PRIYANKA\AndroidStudioProjects\Knowmore\KiddoLearn\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.1.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ca3c7aa31e2726a400a6e552b93cb9f63c9a1e6d">
+        <dex dex="C:\Users\PRIYANKA\AndroidStudioProjects\Knowmore\KiddoLearn\app\build\intermediates\pre-dexed\debug\com.android.support-support-compat-25.1.0_f887e092d6583f4106025f057eecbd7b25553486.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\PRIYANKA\AndroidStudioProjects\Knowmore\KiddoLearn\app\build\intermediates\exploded-aar\com.android.support\support-v4\25.1.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="C:\Users\PRIYANKA\AndroidStudioProjects\Knowmore\KiddoLearn\app\build\intermediates\pre-dexed\debug\com.android.support-support-v4-25.1.0_4d7cc6a70cf1a4bc5a756c67cd3db02958f06008.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\PRIYANKA\AndroidStudioProjects\Knowmore\KiddoLearn\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.1.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="f02263e35e52668dd17b73bf961437e3d562b35f">
+        <dex dex="C:\Users\PRIYANKA\AndroidStudioProjects\Knowmore\KiddoLearn\app\build\intermediates\pre-dexed\release\com.android.support-support-media-compat-25.1.0_57ec93056dea1816fc393e808d9b60260abc9157.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\PRIYANKA\AndroidStudioProjects\Knowmore\KiddoLearn\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\25.1.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e79aa3d9a16f8c9f16377c0608de70a8f31e5d80">
+        <dex dex="C:\Users\PRIYANKA\AndroidStudioProjects\Knowmore\KiddoLearn\app\build\intermediates\pre-dexed\debug\com.android.support-support-vector-drawable-25.1.0_3228d10c220925b3c5066e8229d2eca99576ba14.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\PRIYANKA\AndroidStudioProjects\Knowmore\KiddoLearn\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\25.1.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="6fb6ac3e8d3b9013819920d9ea11f3803c4c0033">
+        <dex dex="C:\Users\PRIYANKA\AndroidStudioProjects\Knowmore\KiddoLearn\app\build\intermediates\pre-dexed\release\com.android.support-animated-vector-drawable-25.1.0_e013e1120eef85febd3f2e128b968fdcb0493943.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\PRIYANKA\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\25.1.0\support-annotations-25.1.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="64cb6b229a8bdfd907bc8dd46839a0053e4c018d">
+        <dex dex="C:\Users\PRIYANKA\AndroidStudioProjects\Knowmore\KiddoLearn\app\build\intermediates\pre-dexed\release\support-annotations-25.1.0_beb441309894020db3d9b8b82a1d6d7ed74e4d9f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\PRIYANKA\AndroidStudioProjects\Knowmore\KiddoLearn\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.1.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="f02263e35e52668dd17b73bf961437e3d562b35f">
+        <dex dex="C:\Users\PRIYANKA\AndroidStudioProjects\Knowmore\KiddoLearn\app\build\intermediates\pre-dexed\debug\com.android.support-support-media-compat-25.1.0_57ec93056dea1816fc393e808d9b60260abc9157.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\PRIYANKA\AndroidStudioProjects\Knowmore\KiddoLearn\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.1.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="aee64634871d88a419d59eb743c1258a60f19700">
+        <dex dex="C:\Users\PRIYANKA\AndroidStudioProjects\Knowmore\KiddoLearn\app\build\intermediates\pre-dexed\debug\com.android.support-support-core-ui-25.1.0_e943f510decfd9b2a540edd0f728d52e67859cd5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\PRIYANKA\AndroidStudioProjects\Knowmore\KiddoLearn\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\25.1.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e79aa3d9a16f8c9f16377c0608de70a8f31e5d80">
+        <dex dex="C:\Users\PRIYANKA\AndroidStudioProjects\Knowmore\KiddoLearn\app\build\intermediates\pre-dexed\release\com.android.support-support-vector-drawable-25.1.0_3228d10c220925b3c5066e8229d2eca99576ba14.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\PRIYANKA\AndroidStudioProjects\Knowmore\KiddoLearn\app\build\intermediates\exploded-aar\com.android.support\support-fragment\25.1.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="2a53c4f3518116b8c6aee0e477233f0f7da8616f">
+        <dex dex="C:\Users\PRIYANKA\AndroidStudioProjects\Knowmore\KiddoLearn\app\build\intermediates\pre-dexed\release\com.android.support-support-fragment-25.1.0_ede508049600cd4a6fe0d739feb3ad514ad152f6.jar" />
+    </item>
+
+</items>

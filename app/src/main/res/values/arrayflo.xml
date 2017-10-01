@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="flo_image1">
+
+        <item>Jasmin</item>
+        <item>Tulip</item>
+        <item>Lotus</item>
+        <item>Lilly</item>
+        <item>Blossom</item>
+        <item>Daisy</item>
+        <item>Sunflower</item>
+
+    </string-array>
+
+    <integer-array name="flo_image">
+
+        <item>@drawable/jasmin</item>
+        <item>@drawable/tulip</item>
+        <item>@drawable/lot1</item>
+        <item>@drawable/lilly</item>
+        <item>@drawable/blossom</item>
+        <item>@drawable/daisy</item>
+        <item>@drawable/sunf</item>
+        <item>@drawable/shenbagam</item>
+        <item>@drawable/manoranjitham</item>
+
+
+    </integer-array>
+
+</resources>

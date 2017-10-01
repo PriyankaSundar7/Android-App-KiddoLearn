@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+    <resources>
+        <string-array name="object_image1a">
+
+            <item>Black</item>
+            <item>white</item>
+            <item>sandle</item>
+            <item>Goldenskin</item>
+            <item>yellow</item>
+            <item>white</item>
+            <item>white</item>
+            <item>faddedskin</item>
+            <item>sandle</item>
+            <item>ash</item>
+            <item>ash</item>
+            <item>Black</item>
+        </string-array>
+
+        <integer-array name="object_adi">
+
+            <item>@raw/jaguar</item>
+            <item>@raw/cat</item>
+            <item>@raw/dog</item>
+            <item>@raw/lion</item>
+            <item>@raw/tiger</item>
+
+            <item>@raw/cow</item>
+
+            <item>@raw/fox</item>
+            <item>@raw/wolf</item>
+            <item>@raw/elephant</item>
+            <item>@raw/bear</item>
+
+
+        </integer-array>
+
+
+    </resources>

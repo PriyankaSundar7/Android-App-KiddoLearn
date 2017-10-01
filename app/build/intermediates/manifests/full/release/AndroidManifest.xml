@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="priyanka.kiddolearn"
+    android:versionCode="1"
+    android:versionName="1.0" >
+
+    <uses-sdk
+        android:minSdkVersion="14"
+        android:targetSdkVersion="25" />
+
+    <application
+        android:allowBackup="true"
+        android:icon="@drawable/ico5"
+        android:label="@string/app_name"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme" >
+        <activity android:name="priyanka.kiddolearn.MainActivity" >
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity android:name="priyanka.kiddolearn.Main2Activity" />
+        <activity android:name="priyanka.kiddolearn.Main3Activity" />
+        <activity android:name="priyanka.kiddolearn.Main4Activity" />
+        <activity android:name="priyanka.kiddolearn.Main5Activity" />
+        <activity android:name="priyanka.kiddolearn.Main6Activity" />
+        <activity android:name="priyanka.kiddolearn.Main7Activity" />
+        <activity android:name="priyanka.kiddolearn.Main8Activity" />
+        <activity android:name="priyanka.kiddolearn.Main9Activity" />
+        <activity android:name="priyanka.kiddolearn.Main10Activity" />
+        <activity android:name="priyanka.kiddolearn.Main11Activity" />
+        <activity android:name="priyanka.kiddolearn.Main12Activity" />
+        <activity android:name="priyanka.kiddolearn.Main13Activity" />
+        <activity android:name="priyanka.kiddolearn.Main14Activity" />
+    </application>
+
+</manifest>

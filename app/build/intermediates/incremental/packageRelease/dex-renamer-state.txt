@@ -1,0 +1,4 @@
+#Tue Feb 28 09:14:49 IST 2017
+base.0=C\:\\Users\\PRIYANKA\\AndroidStudioProjects\\Knowmore\\KiddoLearn\\app\\build\\intermediates\\transforms\\dex\\release\\folders\\1000\\1f\\main
+renamed.0=classes.dex
+file.0=C\:\\Users\\PRIYANKA\\AndroidStudioProjects\\Knowmore\\KiddoLearn\\app\\build\\intermediates\\transforms\\dex\\release\\folders\\1000\\1f\\main\\classes.dex

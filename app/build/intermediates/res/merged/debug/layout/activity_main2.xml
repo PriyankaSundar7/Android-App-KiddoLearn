@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:id="@+id/activity_main2"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:paddingBottom="@dimen/activity_vertical_margin"
+    android:paddingLeft="@dimen/activity_horizontal_margin"
+    android:paddingRight="@dimen/activity_horizontal_margin"
+    android:paddingTop="@dimen/activity_vertical_margin"
+    tools:context="com.example.priyanka.kiddolearn.Main2Activity"
+    android:background="@drawable/bg">
+
+    <LinearLayout
+        android:orientation="vertical"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        >
+
+        <Button
+            android:text="Animal"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:id="@+id/b1"
+            android:background="@drawable/shapeb"
+            android:layout_margin="5dp"
+            android:textSize="40dp"
+            android:textColor="#607D8B"/>
+        <Button
+            android:text="Birds"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:id="@+id/b2"
+            android:background="@drawable/shapeb"
+            android:layout_margin="5dp"
+            android:textSize="40dp"
+            android:textColor="#607D8B"/>
+        <Button
+            android:text="Flowers"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:id="@+id/b3"
+            android:layout_margin="5dp"
+            android:background="@drawable/shapeb"
+            android:textSize="40dp"
+            android:textColor="#607D8B"
+            />
+
+        <Button
+            android:text="Fruits"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:id="@+id/b4"
+            android:layout_margin="5dp"
+            android:background="@drawable/shapeb"
+            android:textSize="40dp"
+            android:textColor="#607D8B"
+
+            />
+        <Button
+            android:text="Vegetables"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:id="@+id/b5"
+            android:layout_margin="5dp"
+            android:background="@drawable/shapeb"
+            android:textSize="40dp"
+            android:textColor="#607D8B"
+
+            />
+        <Button
+            android:text="Trees"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:id="@+id/b6"
+            android:layout_margin="5dp"
+            android:background="@drawable/shapeb"
+            android:textSize="40dp"
+            android:textColor="#607D8B"
+            />
+    </LinearLayout>
+    <LinearLayout
+        android:orientation="horizontal"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="450dp"
+        android:weightSum="1">>
+
+        <ImageButton
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            app:srcCompat="@drawable/back"
+            android:id="@+id/ib2"
+            android:layout_weight="0.5"
+            android:layout_marginRight="100dp"
+            android:background="@android:color/transparent"/>
+
+    </LinearLayout>
+</RelativeLayout>

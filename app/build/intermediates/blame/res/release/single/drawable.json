@@ -1,0 +1,926 @@
+[
+    {
+        "merged": "C:\\Users\\PRIYANKA\\AndroidStudioProjects\\Knowmore\\KiddoLearn\\app\\build\\intermediates\\res\\merged\\release\\drawable\\backbutton.png",
+        "source": "C:\\Users\\PRIYANKA\\AndroidStudioProjects\\Knowmore\\KiddoLearn\\app\\src\\main\\res\\drawable\\backbutton.png"
+    },
+    {
+        "merged": "C:\\Users\\PRIYANKA\\AndroidStudioProjects\\Knowmore\\KiddoLearn\\app\\build\\intermediates\\res\\merged\\release\\drawable\\k8.jpg",
+        "source": "C:\\Users\\PRIYANKA\\AndroidStudioProjects\\Knowmore\\KiddoLearn\\app\\src\\main\\res\\drawable\\k8.jpg"
+    },
+    {
+        "merged": "C:\\Users\\PRIYANKA\\AndroidStudioProjects\\Knowmore\\KiddoLearn\\app\\build\\intermediates\\res\\merged\\release\\drawable\\download33.jpg",
+        "source": "C:\\Users\\PRIYANKA\\AndroidStudioProjects\\Knowmore\\KiddoLearn\\app\\src\\main\\res\\drawable\\download33.jpg"
+    },
+    {
+        "merged": "C:\\Users\\PRIYANKA\\AndroidStudioProjects\\Knowmore\\KiddoLearn\\app\\build\\intermediates\\res\\merged\\release\\drawable\\abc_seekbar_tick_mark_material.xml",
+        "source": "C:\\Users\\PRIYANKA\\AndroidStudioProjects\\Knowmore\\KiddoLearn\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.0\\res\\drawable\\abc_seekbar_tick_mark_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\PRIYANKA\\AndroidStudioProjects\\Knowmore\\KiddoLearn\\app\\build\\intermediates\\res\\merged\\release\\drawable\\greenary.jpg",
+        "source": "C:\\Users\\PRIYANKA\\AndroidStudioProjects\\Knowmore\\KiddoLearn\\app\\src\\main\\res\\drawable\\greenary.jpg"
+    },
+    {
+        "merged": "C:\\Users\\PRIYANKA\\AndroidStudioProjects\\Knowmore\\KiddoLearn\\app\\build\\intermediates\\res\\merged\\release\\drawable\\fruits.jpg",
+        "source": "C:\\Users\\PRIYANKA\\AndroidStudioProjects\\Knowmore\\KiddoLearn\\app\\src\\main\\res\\drawable\\fruits.jpg"
+    },
+    {
+        "merged": "C:\\Users\\PRIYANKA\\AndroidStudioProjects\\Knowmore\\KiddoLearn\\app\\build\\intermediates\\res\\merged\\release\\drawable\\vulture1.jpg",
+        "source": "C:\\Users\\PRIYANKA\\AndroidStudioProjects\\Knowmore\\KiddoLearn\\app\\src\\main\\res\\drawable\\vulture1.jpg"
+    },
+    {
+        "merged": "C:\\Users\\PRIYANKA\\AndroidStudioProjects\\Knowmore\\KiddoLearn\\app\\build\\intermediates\\res\\merged\\release\\drawable\\onion.jpg",
+        "source": "C:\\Users\\PRIYANKA\\AndroidStudioProjects\\Knowmore\\KiddoLearn\\app\\src\\main\\res\\drawable\\onion.jpg"
+    },
+    {
+        "merged": "C:\\Users\\PRIYANKA\\AndroidStudioProjects\\Knowmore\\KiddoLearn\\app\\build\\intermediates\\res\\merged\\release\\drawable\\abc_dialog_material_background.xml",
+        "source": "C:\\Users\\PRIYANKA\\AndroidStudioProjects\\Knowmore\\KiddoLearn\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.0\\res\\drawable\\abc_dialog_material_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\PRIYANKA\\AndroidStudioProjects\\Knowmore\\KiddoLearn\\app\\build\\intermediates\\res\\merged\\release\\drawable\\abc_ratingbar_small_material.xml",
+        "source": "C:\\Users\\PRIYANKA\\AndroidStudioProjects\\Knowmore\\KiddoLearn\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.0\\res\\drawable\\abc_ratingbar_small_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\PRIYANKA\\AndroidStudioProjects\\Knowmore\\KiddoLearn\\app\\build\\intermediates\\res\\merged\\release\\drawable\\shenbagam.jpg",
+        "source": "C:\\Users\\PRIYANKA\\AndroidStudioProjects\\Knowmore\\KiddoLearn\\app\\src\\main\\res\\drawable\\shenbagam.jpg"
+    },
+    {
+        "merged": "C:\\Users\\PRIYANKA\\AndroidStudioProjects\\Knowmore\\KiddoLearn\\app\\build\\intermediates\\res\\merged\\release\\drawable\\ply2.png",
+        "source": "C:\\Users\\PRIYANKA\\AndroidStudioProjects\\Knowmore\\KiddoLearn\\app\\src\\main\\res\\drawable\\ply2.png"
+    },
+    {
+        "merged": "C:\\Users\\PRIYANKA\\AndroidStudioProjects\\Knowmore\\KiddoLearn\\app\\build\\intermediates\\res\\merged\\release\\drawable\\tomato.jpg",
+        "source": "C:\\Users\\PRIYANKA\\AndroidStudioProjects\\Knowmore\\KiddoLearn\\app\\src\\main\\res\\drawable\\tomato.jpg"
+    },
+    {
+        "merged": "C:\\Users\\PRIYANKA\\AndroidStudioProjects\\Knowmore\\KiddoLearn\\app\\build\\intermediates\\res\\merged\\release\\drawable\\carrot.jpg",
+        "source": "C:\\Users\\PRIYANKA\\AndroidStudioProjects\\Knowmore\\KiddoLearn\\app\\src\\main\\res\\drawable\\carrot.jpg"
+    },
+    {
+        "merged": "C:\\Users\\PRIYANKA\\AndroidStudioProjects\\Knowmore\\KiddoLearn\\app\\build\\intermediates\\res\\merged\\release\\drawable\\back2.png",
+        "source": "C:\\Users\\PRIYANKA\\AndroidStudioProjects\\Knowmore\\KiddoLearn\\app\\src\\main\\res\\drawable\\back2.png"
+    },
+    {
+        "merged": "C:\\Users\\PRIYANKA\\AndroidStudioProjects\\Knowmore\\KiddoLearn\\app\\build\\intermediates\\res\\merged\\release\\drawable\\pelican.jpg",
+        "source": "C:\\Users\\PRIYANKA\\AndroidStudioProjects\\Knowmore\\KiddoLearn\\app\\src\\main\\res\\drawable\\pelican.jpg"
+    },
+    {
+        "merged": "C:\\Users\\PRIYANKA\\AndroidStudioProjects\\Knowmore\\KiddoLearn\\app\\build\\intermediates\\res\\merged\\release\\drawable\\images.png",
+        "source": "C:\\Users\\PRIYANKA\\AndroidStudioProjects\\Knowmore\\KiddoLearn\\app\\src\\main\\res\\drawable\\images.png"
+    },
+    {
+        "merged": "C:\\Users\\PRIYANKA\\AndroidStudioProjects\\Knowmore\\KiddoLearn\\app\\build\\intermediates\\res\\merged\\release\\drawable\\beetroot.jpg",
+        "source": "C:\\Users\\PRIYANKA\\AndroidStudioProjects\\Knowmore\\KiddoLearn\\app\\src\\main\\res\\drawable\\beetroot.jpg"
+    },
+    {
+        "merged": "C:\\Users\\PRIYANKA\\AndroidStudioProjects\\Knowmore\\KiddoLearn\\app\\build\\intermediates\\res\\merged\\release\\drawable\\abc_tab_indicator_material.xml",
+        "source": "C:\\Users\\PRIYANKA\\AndroidStudioProjects\\Knowmore\\KiddoLearn\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.0\\res\\drawable\\abc_tab_indicator_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\PRIYANKA\\AndroidStudioProjects\\Knowmore\\KiddoLearn\\app\\build\\intermediates\\res\\merged\\release\\drawable\\images772.jpg",
+        "source": "C:\\Users\\PRIYANKA\\AndroidStudioProjects\\Knowmore\\KiddoLearn\\app\\src\\main\\res\\drawable\\images772.jpg"
+    },
+    {
+        "merged": "C:\\Users\\PRIYANKA\\AndroidStudioProjects\\Knowmore\\KiddoLearn\\app\\build\\intermediates\\res\\merged\\release\\drawable\\beek1.png",
+        "source": "C:\\Users\\PRIYANKA\\AndroidStudioProjects\\Knowmore\\KiddoLearn\\app\\src\\main\\res\\drawable\\beek1.png"
+    },
+    {
+        "merged": "C:\\Users\\PRIYANKA\\AndroidStudioProjects\\Knowmore\\KiddoLearn\\app\\build\\intermediates\\res\\merged\\release\\drawable\\tulip.jpg",
+        "source": "C:\\Users\\PRIYANKA\\AndroidStudioProjects\\Knowmore\\KiddoLearn\\app\\src\\main\\res\\drawable\\tulip.jpg"
+    },
+    {
+        "merged": "C:\\Users\\PRIYANKA\\AndroidStudioProjects\\Knowmore\\KiddoLearn\\app\\build\\intermediates\\res\\merged\\release\\drawable\\sunf.jpg",
+        "source": "C:\\Users\\PRIYANKA\\AndroidStudioProjects\\Knowmore\\KiddoLearn\\app\\src\\main\\res\\drawable\\sunf.jpg"
+    },
+    {
+        "merged": "C:\\Users\\PRIYANKA\\AndroidStudioProjects\\Knowmore\\KiddoLearn\\app\\build\\intermediates\\res\\merged\\release\\drawable\\images61.jpg",
+        "source": "C:\\Users\\PRIYANKA\\AndroidStudioProjects\\Knowmore\\KiddoLearn\\app\\src\\main\\res\\drawable\\images61.jpg"
+    },
+    {
+        "merged": "C:\\Users\\PRIYANKA\\AndroidStudioProjects\\Knowmore\\KiddoLearn\\app\\build\\intermediates\\res\\merged\\release\\drawable\\abc_item_background_holo_dark.xml",
+        "source": "C:\\Users\\PRIYANKA\\AndroidStudioProjects\\Knowmore\\KiddoLearn\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.0\\res\\drawable\\abc_item_background_holo_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\PRIYANKA\\AndroidStudioProjects\\Knowmore\\KiddoLearn\\app\\build\\intermediates\\res\\merged\\release\\drawable\\fox.jpg",
+        "source": "C:\\Users\\PRIYANKA\\AndroidStudioProjects\\Knowmore\\KiddoLearn\\app\\src\\main\\res\\drawable\\fox.jpg"
+    },
+    {
+        "merged": "C:\\Users\\PRIYANKA\\AndroidStudioProjects\\Knowmore\\KiddoLearn\\app\\build\\intermediates\\res\\merged\\release\\drawable\\hm2.png",
+        "source": "C:\\Users\\PRIYANKA\\AndroidStudioProjects\\Knowmore\\KiddoLearn\\app\\src\\main\\res\\drawable\\hm2.png"
+    },
+    {
+        "merged": "C:\\Users\\PRIYANKA\\AndroidStudioProjects\\Knowmore\\KiddoLearn\\app\\build\\intermediates\\res\\merged\\release\\drawable\\bbb.png",
+        "source": "C:\\Users\\PRIYANKA\\AndroidStudioProjects\\Knowmore\\KiddoLearn\\app\\src\\main\\res\\drawable\\bbb.png"
+    },
+    {
+        "merged": "C:\\Users\\PRIYANKA\\AndroidStudioProjects\\Knowmore\\KiddoLearn\\app\\build\\intermediates\\res\\merged\\release\\drawable\\lotus.jpg",
+        "source": "C:\\Users\\PRIYANKA\\AndroidStudioProjects\\Knowmore\\KiddoLearn\\app\\src\\main\\res\\drawable\\lotus.jpg"
+    },
+    {
+        "merged": "C:\\Users\\PRIYANKA\\AndroidStudioProjects\\Knowmore\\KiddoLearn\\app\\build\\intermediates\\res\\merged\\release\\drawable\\lilly.jpg",
+        "source": "C:\\Users\\PRIYANKA\\AndroidStudioProjects\\Knowmore\\KiddoLearn\\app\\src\\main\\res\\drawable\\lilly.jpg"
+    },
+    {
+        "merged": "C:\\Users\\PRIYANKA\\AndroidStudioProjects\\Knowmore\\KiddoLearn\\app\\build\\intermediates\\res\\merged\\release\\drawable\\lftar.png",
+        "source": "C:\\Users\\PRIYANKA\\AndroidStudioProjects\\Knowmore\\KiddoLearn\\app\\src\\main\\res\\drawable\\lftar.png"
+    },
+    {
+        "merged": "C:\\Users\\PRIYANKA\\AndroidStudioProjects\\Knowmore\\KiddoLearn\\app\\build\\intermediates\\res\\merged\\release\\drawable\\bn2.jpg",
+        "source": "C:\\Users\\PRIYANKA\\AndroidStudioProjects\\Knowmore\\KiddoLearn\\app\\src\\main\\res\\drawable\\bn2.jpg"
+    },
+    {
+        "merged": "C:\\Users\\PRIYANKA\\AndroidStudioProjects\\Knowmore\\KiddoLearn\\app\\build\\intermediates\\res\\merged\\release\\drawable\\gulmohar.jpg",
+        "source": "C:\\Users\\PRIYANKA\\AndroidStudioProjects\\Knowmore\\KiddoLearn\\app\\src\\main\\res\\drawable\\gulmohar.jpg"
+    },
+    {
+        "merged": "C:\\Users\\PRIYANKA\\AndroidStudioProjects\\Knowmore\\KiddoLearn\\app\\build\\intermediates\\res\\merged\\release\\drawable\\go1.jpg",
+        "source": "C:\\Users\\PRIYANKA\\AndroidStudioProjects\\Knowmore\\KiddoLearn\\app\\src\\main\\res\\drawable\\go1.jpg"
+    },
+    {
+        "merged": "C:\\Users\\PRIYANKA\\AndroidStudioProjects\\Knowmore\\KiddoLearn\\app\\build\\intermediates\\res\\merged\\release\\drawable\\jackfr.jpg",
+        "source": "C:\\Users\\PRIYANKA\\AndroidStudioProjects\\Knowmore\\KiddoLearn\\app\\src\\main\\res\\drawable\\jackfr.jpg"
+    },
+    {
+        "merged": "C:\\Users\\PRIYANKA\\AndroidStudioProjects\\Knowmore\\KiddoLearn\\app\\build\\intermediates\\res\\merged\\release\\drawable\\grpg.jpg",
+        "source": "C:\\Users\\PRIYANKA\\AndroidStudioProjects\\Knowmore\\KiddoLearn\\app\\src\\main\\res\\drawable\\grpg.jpg"
+    },
+    {
+        "merged": "C:\\Users\\PRIYANKA\\AndroidStudioProjects\\Knowmore\\KiddoLearn\\app\\build\\intermediates\\res\\merged\\release\\drawable\\appl.jpg",
+        "source": "C:\\Users\\PRIYANKA\\AndroidStudioProjects\\Knowmore\\KiddoLearn\\app\\src\\main\\res\\drawable\\appl.jpg"
+    },
+    {
+        "merged": "C:\\Users\\PRIYANKA\\AndroidStudioProjects\\Knowmore\\KiddoLearn\\app\\build\\intermediates\\res\\merged\\release\\drawable\\notification_tile_bg.xml",
+        "source": "C:\\Users\\PRIYANKA\\AndroidStudioProjects\\Knowmore\\KiddoLearn\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.0\\res\\drawable\\notification_tile_bg.xml"
+    },
+    {
+        "merged": "C:\\Users\\PRIYANKA\\AndroidStudioProjects\\Knowmore\\KiddoLearn\\app\\build\\intermediates\\res\\merged\\release\\drawable\\parrot.jpg",
+        "source": "C:\\Users\\PRIYANKA\\AndroidStudioProjects\\Knowmore\\KiddoLearn\\app\\src\\main\\res\\drawable\\parrot.jpg"
+    },
+    {
+        "merged": "C:\\Users\\PRIYANKA\\AndroidStudioProjects\\Knowmore\\KiddoLearn\\app\\build\\intermediates\\res\\merged\\release\\drawable\\rod.jpg",
+        "source": "C:\\Users\\PRIYANKA\\AndroidStudioProjects\\Knowmore\\KiddoLearn\\app\\src\\main\\res\\drawable\\rod.jpg"
+    },
+    {
+        "merged": "C:\\Users\\PRIYANKA\\AndroidStudioProjects\\Knowmore\\KiddoLearn\\app\\build\\intermediates\\res\\merged\\release\\drawable\\cow.jpg",
+        "source": "C:\\Users\\PRIYANKA\\AndroidStudioProjects\\Knowmore\\KiddoLearn\\app\\src\\main\\res\\drawable\\cow.jpg"
+    },
+    {
+        "merged": "C:\\Users\\PRIYANKA\\AndroidStudioProjects\\Knowmore\\KiddoLearn\\app\\build\\intermediates\\res\\merged\\release\\drawable\\bnestt.jpg",
+        "source": "C:\\Users\\PRIYANKA\\AndroidStudioProjects\\Knowmore\\KiddoLearn\\app\\src\\main\\res\\drawable\\bnestt.jpg"
+    },
+    {
+        "merged": "C:\\Users\\PRIYANKA\\AndroidStudioProjects\\Knowmore\\KiddoLearn\\app\\build\\intermediates\\res\\merged\\release\\drawable\\beek5.png",
+        "source": "C:\\Users\\PRIYANKA\\AndroidStudioProjects\\Knowmore\\KiddoLearn\\app\\src\\main\\res\\drawable\\beek5.png"
+    },
+    {
+        "merged": "C:\\Users\\PRIYANKA\\AndroidStudioProjects\\Knowmore\\KiddoLearn\\app\\build\\intermediates\\res\\merged\\release\\drawable\\images63.jpg",
+        "source": "C:\\Users\\PRIYANKA\\AndroidStudioProjects\\Knowmore\\KiddoLearn\\app\\src\\main\\res\\drawable\\images63.jpg"
+    },
+    {
+        "merged": "C:\\Users\\PRIYANKA\\AndroidStudioProjects\\Knowmore\\KiddoLearn\\app\\build\\intermediates\\res\\merged\\release\\drawable\\l13.png",
+        "source": "C:\\Users\\PRIYANKA\\AndroidStudioProjects\\Knowmore\\KiddoLearn\\app\\src\\main\\res\\drawable\\l13.png"
+    },
+    {
+        "merged": "C:\\Users\\PRIYANKA\\AndroidStudioProjects\\Knowmore\\KiddoLearn\\app\\build\\intermediates\\res\\merged\\release\\drawable\\abc_list_selector_holo_dark.xml",
+        "source": "C:\\Users\\PRIYANKA\\AndroidStudioProjects\\Knowmore\\KiddoLearn\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.0\\res\\drawable\\abc_list_selector_holo_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\PRIYANKA\\AndroidStudioProjects\\Knowmore\\KiddoLearn\\app\\build\\intermediates\\res\\merged\\release\\drawable\\parijatha.jpg",
+        "source": "C:\\Users\\PRIYANKA\\AndroidStudioProjects\\Knowmore\\KiddoLearn\\app\\src\\main\\res\\drawable\\parijatha.jpg"
+    },
+    {
+        "merged": "C:\\Users\\PRIYANKA\\AndroidStudioProjects\\Knowmore\\KiddoLearn\\app\\build\\intermediates\\res\\merged\\release\\drawable\\saltree.jpg",
+        "source": "C:\\Users\\PRIYANKA\\AndroidStudioProjects\\Knowmore\\KiddoLearn\\app\\src\\main\\res\\drawable\\saltree.jpg"
+    },
+    {
+        "merged": "C:\\Users\\PRIYANKA\\AndroidStudioProjects\\Knowmore\\KiddoLearn\\app\\build\\intermediates\\res\\merged\\release\\drawable\\abc_btn_colored_material.xml",
+        "source": "C:\\Users\\PRIYANKA\\AndroidStudioProjects\\Knowmore\\KiddoLearn\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.0\\res\\drawable\\abc_btn_colored_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\PRIYANKA\\AndroidStudioProjects\\Knowmore\\KiddoLearn\\app\\build\\intermediates\\res\\merged\\release\\drawable\\peacock.jpg",
+        "source": "C:\\Users\\PRIYANKA\\AndroidStudioProjects\\Knowmore\\KiddoLearn\\app\\src\\main\\res\\drawable\\peacock.jpg"
+    },
+    {
+        "merged": "C:\\Users\\PRIYANKA\\AndroidStudioProjects\\Knowmore\\KiddoLearn\\app\\build\\intermediates\\res\\merged\\release\\drawable\\bg.jpg",
+        "source": "C:\\Users\\PRIYANKA\\AndroidStudioProjects\\Knowmore\\KiddoLearn\\app\\src\\main\\res\\drawable\\bg.jpg"
+    },
+    {
+        "merged": "C:\\Users\\PRIYANKA\\AndroidStudioProjects\\Knowmore\\KiddoLearn\\app\\build\\intermediates\\res\\merged\\release\\drawable\\bk.png",
+        "source": "C:\\Users\\PRIYANKA\\AndroidStudioProjects\\Knowmore\\KiddoLearn\\app\\src\\main\\res\\drawable\\bk.png"
+    },
+    {
+        "merged": "C:\\Users\\PRIYANKA\\AndroidStudioProjects\\Knowmore\\KiddoLearn\\app\\build\\intermediates\\res\\merged\\release\\drawable\\abc_cab_background_top_material.xml",
+        "source": "C:\\Users\\PRIYANKA\\AndroidStudioProjects\\Knowmore\\KiddoLearn\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.0\\res\\drawable\\abc_cab_background_top_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\PRIYANKA\\AndroidStudioProjects\\Knowmore\\KiddoLearn\\app\\build\\intermediates\\res\\merged\\release\\drawable\\abc_edit_text_material.xml",
+        "source": "C:\\Users\\PRIYANKA\\AndroidStudioProjects\\Knowmore\\KiddoLearn\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.0\\res\\drawable\\abc_edit_text_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\PRIYANKA\\AndroidStudioProjects\\Knowmore\\KiddoLearn\\app\\build\\intermediates\\res\\merged\\release\\drawable\\gova.jpg",
+        "source": "C:\\Users\\PRIYANKA\\AndroidStudioProjects\\Knowmore\\KiddoLearn\\app\\src\\main\\res\\drawable\\gova.jpg"
+    },
+    {
+        "merged": "C:\\Users\\PRIYANKA\\AndroidStudioProjects\\Knowmore\\KiddoLearn\\app\\build\\intermediates\\res\\merged\\release\\drawable\\banana1.jpg",
+        "source": "C:\\Users\\PRIYANKA\\AndroidStudioProjects\\Knowmore\\KiddoLearn\\app\\src\\main\\res\\drawable\\banana1.jpg"
+    },
+    {
+        "merged": "C:\\Users\\PRIYANKA\\AndroidStudioProjects\\Knowmore\\KiddoLearn\\app\\build\\intermediates\\res\\merged\\release\\drawable\\lot.jpg",
+        "source": "C:\\Users\\PRIYANKA\\AndroidStudioProjects\\Knowmore\\KiddoLearn\\app\\src\\main\\res\\drawable\\lot.jpg"
+    },
+    {
+        "merged": "C:\\Users\\PRIYANKA\\AndroidStudioProjects\\Knowmore\\KiddoLearn\\app\\build\\intermediates\\res\\merged\\release\\drawable\\next3.png",
+        "source": "C:\\Users\\PRIYANKA\\AndroidStudioProjects\\Knowmore\\KiddoLearn\\app\\src\\main\\res\\drawable\\next3.png"
+    },
+    {
+        "merged": "C:\\Users\\PRIYANKA\\AndroidStudioProjects\\Knowmore\\KiddoLearn\\app\\build\\intermediates\\res\\merged\\release\\drawable\\watr.jpg",
+        "source": "C:\\Users\\PRIYANKA\\AndroidStudioProjects\\Knowmore\\KiddoLearn\\app\\src\\main\\res\\drawable\\watr.jpg"
+    },
+    {
+        "merged": "C:\\Users\\PRIYANKA\\AndroidStudioProjects\\Knowmore\\KiddoLearn\\app\\build\\intermediates\\res\\merged\\release\\drawable\\ifloor.jpg",
+        "source": "C:\\Users\\PRIYANKA\\AndroidStudioProjects\\Knowmore\\KiddoLearn\\app\\src\\main\\res\\drawable\\ifloor.jpg"
+    },
+    {
+        "merged": "C:\\Users\\PRIYANKA\\AndroidStudioProjects\\Knowmore\\KiddoLearn\\app\\build\\intermediates\\res\\merged\\release\\drawable\\icr.png",
+        "source": "C:\\Users\\PRIYANKA\\AndroidStudioProjects\\Knowmore\\KiddoLearn\\app\\src\\main\\res\\drawable\\icr.png"
+    },
+    {
+        "merged": "C:\\Users\\PRIYANKA\\AndroidStudioProjects\\Knowmore\\KiddoLearn\\app\\build\\intermediates\\res\\merged\\release\\drawable\\woodpecker.jpg",
+        "source": "C:\\Users\\PRIYANKA\\AndroidStudioProjects\\Knowmore\\KiddoLearn\\app\\src\\main\\res\\drawable\\woodpecker.jpg"
+    },
+    {
+        "merged": "C:\\Users\\PRIYANKA\\AndroidStudioProjects\\Knowmore\\KiddoLearn\\app\\build\\intermediates\\res\\merged\\release\\drawable\\images66.jpg",
+        "source": "C:\\Users\\PRIYANKA\\AndroidStudioProjects\\Knowmore\\KiddoLearn\\app\\src\\main\\res\\drawable\\images66.jpg"
+    },
+    {
+        "merged": "C:\\Users\\PRIYANKA\\AndroidStudioProjects\\Knowmore\\KiddoLearn\\app\\build\\intermediates\\res\\merged\\release\\drawable\\papaya.jpg",
+        "source": "C:\\Users\\PRIYANKA\\AndroidStudioProjects\\Knowmore\\KiddoLearn\\app\\src\\main\\res\\drawable\\papaya.jpg"
+    },
+    {
+        "merged": "C:\\Users\\PRIYANKA\\AndroidStudioProjects\\Knowmore\\KiddoLearn\\app\\build\\intermediates\\res\\merged\\release\\drawable\\nbeek4.png",
+        "source": "C:\\Users\\PRIYANKA\\AndroidStudioProjects\\Knowmore\\KiddoLearn\\app\\src\\main\\res\\drawable\\nbeek4.png"
+    },
+    {
+        "merged": "C:\\Users\\PRIYANKA\\AndroidStudioProjects\\Knowmore\\KiddoLearn\\app\\build\\intermediates\\res\\merged\\release\\drawable\\cherry.jpg",
+        "source": "C:\\Users\\PRIYANKA\\AndroidStudioProjects\\Knowmore\\KiddoLearn\\app\\src\\main\\res\\drawable\\cherry.jpg"
+    },
+    {
+        "merged": "C:\\Users\\PRIYANKA\\AndroidStudioProjects\\Knowmore\\KiddoLearn\\app\\build\\intermediates\\res\\merged\\release\\drawable\\jung.jpg",
+        "source": "C:\\Users\\PRIYANKA\\AndroidStudioProjects\\Knowmore\\KiddoLearn\\app\\src\\main\\res\\drawable\\jung.jpg"
+    },
+    {
+        "merged": "C:\\Users\\PRIYANKA\\AndroidStudioProjects\\Knowmore\\KiddoLearn\\app\\build\\intermediates\\res\\merged\\release\\drawable\\gabbie.jpg",
+        "source": "C:\\Users\\PRIYANKA\\AndroidStudioProjects\\Knowmore\\KiddoLearn\\app\\src\\main\\res\\drawable\\gabbie.jpg"
+    },
+    {
+        "merged": "C:\\Users\\PRIYANKA\\AndroidStudioProjects\\Knowmore\\KiddoLearn\\app\\build\\intermediates\\res\\merged\\release\\drawable\\abc_text_cursor_material.xml",
+        "source": "C:\\Users\\PRIYANKA\\AndroidStudioProjects\\Knowmore\\KiddoLearn\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.0\\res\\drawable\\abc_text_cursor_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\PRIYANKA\\AndroidStudioProjects\\Knowmore\\KiddoLearn\\app\\build\\intermediates\\res\\merged\\release\\drawable\\abc_cab_background_internal_bg.xml",
+        "source": "C:\\Users\\PRIYANKA\\AndroidStudioProjects\\Knowmore\\KiddoLearn\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.0\\res\\drawable\\abc_cab_background_internal_bg.xml"
+    },
+    {
+        "merged": "C:\\Users\\PRIYANKA\\AndroidStudioProjects\\Knowmore\\KiddoLearn\\app\\build\\intermediates\\res\\merged\\release\\drawable\\colors.jpg",
+        "source": "C:\\Users\\PRIYANKA\\AndroidStudioProjects\\Knowmore\\KiddoLearn\\app\\src\\main\\res\\drawable\\colors.jpg"
+    },
+    {
+        "merged": "C:\\Users\\PRIYANKA\\AndroidStudioProjects\\Knowmore\\KiddoLearn\\app\\build\\intermediates\\res\\merged\\release\\drawable\\hpl.jpg",
+        "source": "C:\\Users\\PRIYANKA\\AndroidStudioProjects\\Knowmore\\KiddoLearn\\app\\src\\main\\res\\drawable\\hpl.jpg"
+    },
+    {
+        "merged": "C:\\Users\\PRIYANKA\\AndroidStudioProjects\\Knowmore\\KiddoLearn\\app\\build\\intermediates\\res\\merged\\release\\drawable\\monkey.jpg",
+        "source": "C:\\Users\\PRIYANKA\\AndroidStudioProjects\\Knowmore\\KiddoLearn\\app\\src\\main\\res\\drawable\\monkey.jpg"
+    },
+    {
+        "merged": "C:\\Users\\PRIYANKA\\AndroidStudioProjects\\Knowmore\\KiddoLearn\\app\\build\\intermediates\\res\\merged\\release\\drawable\\hm3333.png",
+        "source": "C:\\Users\\PRIYANKA\\AndroidStudioProjects\\Knowmore\\KiddoLearn\\app\\src\\main\\res\\drawable\\hm3333.png"
+    },
+    {
+        "merged": "C:\\Users\\PRIYANKA\\AndroidStudioProjects\\Knowmore\\KiddoLearn\\app\\build\\intermediates\\res\\merged\\release\\drawable\\ico1.png",
+        "source": "C:\\Users\\PRIYANKA\\AndroidStudioProjects\\Knowmore\\KiddoLearn\\app\\src\\main\\res\\drawable\\ico1.png"
+    },
+    {
+        "merged": "C:\\Users\\PRIYANKA\\AndroidStudioProjects\\Knowmore\\KiddoLearn\\app\\build\\intermediates\\res\\merged\\release\\drawable\\images65.jpg",
+        "source": "C:\\Users\\PRIYANKA\\AndroidStudioProjects\\Knowmore\\KiddoLearn\\app\\src\\main\\res\\drawable\\images65.jpg"
+    },
+    {
+        "merged": "C:\\Users\\PRIYANKA\\AndroidStudioProjects\\Knowmore\\KiddoLearn\\app\\build\\intermediates\\res\\merged\\release\\drawable\\abc_list_selector_holo_light.xml",
+        "source": "C:\\Users\\PRIYANKA\\AndroidStudioProjects\\Knowmore\\KiddoLearn\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.0\\res\\drawable\\abc_list_selector_holo_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\PRIYANKA\\AndroidStudioProjects\\Knowmore\\KiddoLearn\\app\\build\\intermediates\\res\\merged\\release\\drawable\\sunflower.jpg",
+        "source": "C:\\Users\\PRIYANKA\\AndroidStudioProjects\\Knowmore\\KiddoLearn\\app\\src\\main\\res\\drawable\\sunflower.jpg"
+    },
+    {
+        "merged": "C:\\Users\\PRIYANKA\\AndroidStudioProjects\\Knowmore\\KiddoLearn\\app\\build\\intermediates\\res\\merged\\release\\drawable\\abc_textfield_search_material.xml",
+        "source": "C:\\Users\\PRIYANKA\\AndroidStudioProjects\\Knowmore\\KiddoLearn\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.0\\res\\drawable\\abc_textfield_search_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\PRIYANKA\\AndroidStudioProjects\\Knowmore\\KiddoLearn\\app\\build\\intermediates\\res\\merged\\release\\drawable\\imagesbee3.png",
+        "source": "C:\\Users\\PRIYANKA\\AndroidStudioProjects\\Knowmore\\KiddoLearn\\app\\src\\main\\res\\drawable\\imagesbee3.png"
+    },
+    {
+        "merged": "C:\\Users\\PRIYANKA\\AndroidStudioProjects\\Knowmore\\KiddoLearn\\app\\build\\intermediates\\res\\merged\\release\\drawable\\flr.jpg",
+        "source": "C:\\Users\\PRIYANKA\\AndroidStudioProjects\\Knowmore\\KiddoLearn\\app\\src\\main\\res\\drawable\\flr.jpg"
+    },
+    {
+        "merged": "C:\\Users\\PRIYANKA\\AndroidStudioProjects\\Knowmore\\KiddoLearn\\app\\build\\intermediates\\res\\merged\\release\\drawable\\bk1.png",
+        "source": "C:\\Users\\PRIYANKA\\AndroidStudioProjects\\Knowmore\\KiddoLearn\\app\\src\\main\\res\\drawable\\bk1.png"
+    },
+    {
+        "merged": "C:\\Users\\PRIYANKA\\AndroidStudioProjects\\Knowmore\\KiddoLearn\\app\\build\\intermediates\\res\\merged\\release\\drawable\\abc_list_selector_background_transition_holo_dark.xml",
+        "source": "C:\\Users\\PRIYANKA\\AndroidStudioProjects\\Knowmore\\KiddoLearn\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.0\\res\\drawable\\abc_list_selector_background_transition_holo_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\PRIYANKA\\AndroidStudioProjects\\Knowmore\\KiddoLearn\\app\\build\\intermediates\\res\\merged\\release\\drawable\\shapeb.xml",
+        "source": "C:\\Users\\PRIYANKA\\AndroidStudioProjects\\Knowmore\\KiddoLearn\\app\\src\\main\\res\\drawable\\shapeb.xml"
+    },
+    {
+        "merged": "C:\\Users\\PRIYANKA\\AndroidStudioProjects\\Knowmore\\KiddoLearn\\app\\build\\intermediates\\res\\merged\\release\\drawable\\beek7.png",
+        "source": "C:\\Users\\PRIYANKA\\AndroidStudioProjects\\Knowmore\\KiddoLearn\\app\\src\\main\\res\\drawable\\beek7.png"
+    },
+    {
+        "merged": "C:\\Users\\PRIYANKA\\AndroidStudioProjects\\Knowmore\\KiddoLearn\\app\\build\\intermediates\\res\\merged\\release\\drawable\\pome.jpg",
+        "source": "C:\\Users\\PRIYANKA\\AndroidStudioProjects\\Knowmore\\KiddoLearn\\app\\src\\main\\res\\drawable\\pome.jpg"
+    },
+    {
+        "merged": "C:\\Users\\PRIYANKA\\AndroidStudioProjects\\Knowmore\\KiddoLearn\\app\\build\\intermediates\\res\\merged\\release\\drawable\\abc_ic_menu_overflow_material.xml",
+        "source": "C:\\Users\\PRIYANKA\\AndroidStudioProjects\\Knowmore\\KiddoLearn\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.0\\res\\drawable\\abc_ic_menu_overflow_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\PRIYANKA\\AndroidStudioProjects\\Knowmore\\KiddoLearn\\app\\build\\intermediates\\res\\merged\\release\\drawable\\ico2.png",
+        "source": "C:\\Users\\PRIYANKA\\AndroidStudioProjects\\Knowmore\\KiddoLearn\\app\\src\\main\\res\\drawable\\ico2.png"
+    },
+    {
+        "merged": "C:\\Users\\PRIYANKA\\AndroidStudioProjects\\Knowmore\\KiddoLearn\\app\\build\\intermediates\\res\\merged\\release\\drawable\\kiwi.jpg",
+        "source": "C:\\Users\\PRIYANKA\\AndroidStudioProjects\\Knowmore\\KiddoLearn\\app\\src\\main\\res\\drawable\\kiwi.jpg"
+    },
+    {
+        "merged": "C:\\Users\\PRIYANKA\\AndroidStudioProjects\\Knowmore\\KiddoLearn\\app\\build\\intermediates\\res\\merged\\release\\drawable\\nbeek3.png",
+        "source": "C:\\Users\\PRIYANKA\\AndroidStudioProjects\\Knowmore\\KiddoLearn\\app\\src\\main\\res\\drawable\\nbeek3.png"
+    },
+    {
+        "merged": "C:\\Users\\PRIYANKA\\AndroidStudioProjects\\Knowmore\\KiddoLearn\\app\\build\\intermediates\\res\\merged\\release\\drawable\\bn3rd.png",
+        "source": "C:\\Users\\PRIYANKA\\AndroidStudioProjects\\Knowmore\\KiddoLearn\\app\\src\\main\\res\\drawable\\bn3rd.png"
+    },
+    {
+        "merged": "C:\\Users\\PRIYANKA\\AndroidStudioProjects\\Knowmore\\KiddoLearn\\app\\build\\intermediates\\res\\merged\\release\\drawable\\mahogany.jpg",
+        "source": "C:\\Users\\PRIYANKA\\AndroidStudioProjects\\Knowmore\\KiddoLearn\\app\\src\\main\\res\\drawable\\mahogany.jpg"
+    },
+    {
+        "merged": "C:\\Users\\PRIYANKA\\AndroidStudioProjects\\Knowmore\\KiddoLearn\\app\\build\\intermediates\\res\\merged\\release\\drawable\\next5.png",
+        "source": "C:\\Users\\PRIYANKA\\AndroidStudioProjects\\Knowmore\\KiddoLearn\\app\\src\\main\\res\\drawable\\next5.png"
+    },
+    {
+        "merged": "C:\\Users\\PRIYANKA\\AndroidStudioProjects\\Knowmore\\KiddoLearn\\app\\build\\intermediates\\res\\merged\\release\\drawable\\download44.jpg",
+        "source": "C:\\Users\\PRIYANKA\\AndroidStudioProjects\\Knowmore\\KiddoLearn\\app\\src\\main\\res\\drawable\\download44.jpg"
+    },
+    {
+        "merged": "C:\\Users\\PRIYANKA\\AndroidStudioProjects\\Knowmore\\KiddoLearn\\app\\build\\intermediates\\res\\merged\\release\\drawable\\rtart.png",
+        "source": "C:\\Users\\PRIYANKA\\AndroidStudioProjects\\Knowmore\\KiddoLearn\\app\\src\\main\\res\\drawable\\rtart.png"
+    },
+    {
+        "merged": "C:\\Users\\PRIYANKA\\AndroidStudioProjects\\Knowmore\\KiddoLearn\\app\\build\\intermediates\\res\\merged\\release\\drawable\\logenberry.jpg",
+        "source": "C:\\Users\\PRIYANKA\\AndroidStudioProjects\\Knowmore\\KiddoLearn\\app\\src\\main\\res\\drawable\\logenberry.jpg"
+    },
+    {
+        "merged": "C:\\Users\\PRIYANKA\\AndroidStudioProjects\\Knowmore\\KiddoLearn\\app\\build\\intermediates\\res\\merged\\release\\drawable\\for4.jpg",
+        "source": "C:\\Users\\PRIYANKA\\AndroidStudioProjects\\Knowmore\\KiddoLearn\\app\\src\\main\\res\\drawable\\for4.jpg"
+    },
+    {
+        "merged": "C:\\Users\\PRIYANKA\\AndroidStudioProjects\\Knowmore\\KiddoLearn\\app\\build\\intermediates\\res\\merged\\release\\drawable\\download5.jpg",
+        "source": "C:\\Users\\PRIYANKA\\AndroidStudioProjects\\Knowmore\\KiddoLearn\\app\\src\\main\\res\\drawable\\download5.jpg"
+    },
+    {
+        "merged": "C:\\Users\\PRIYANKA\\AndroidStudioProjects\\Knowmore\\KiddoLearn\\app\\build\\intermediates\\res\\merged\\release\\drawable\\nbeek2.png",
+        "source": "C:\\Users\\PRIYANKA\\AndroidStudioProjects\\Knowmore\\KiddoLearn\\app\\src\\main\\res\\drawable\\nbeek2.png"
+    },
+    {
+        "merged": "C:\\Users\\PRIYANKA\\AndroidStudioProjects\\Knowmore\\KiddoLearn\\app\\build\\intermediates\\res\\merged\\release\\drawable\\lftarrw.png",
+        "source": "C:\\Users\\PRIYANKA\\AndroidStudioProjects\\Knowmore\\KiddoLearn\\app\\src\\main\\res\\drawable\\lftarrw.png"
+    },
+    {
+        "merged": "C:\\Users\\PRIYANKA\\AndroidStudioProjects\\Knowmore\\KiddoLearn\\app\\build\\intermediates\\res\\merged\\release\\drawable\\bananatree.jpg",
+        "source": "C:\\Users\\PRIYANKA\\AndroidStudioProjects\\Knowmore\\KiddoLearn\\app\\src\\main\\res\\drawable\\bananatree.jpg"
+    },
+    {
+        "merged": "C:\\Users\\PRIYANKA\\AndroidStudioProjects\\Knowmore\\KiddoLearn\\app\\build\\intermediates\\res\\merged\\release\\drawable\\elephant.jpg",
+        "source": "C:\\Users\\PRIYANKA\\AndroidStudioProjects\\Knowmore\\KiddoLearn\\app\\src\\main\\res\\drawable\\elephant.jpg"
+    },
+    {
+        "merged": "C:\\Users\\PRIYANKA\\AndroidStudioProjects\\Knowmore\\KiddoLearn\\app\\build\\intermediates\\res\\merged\\release\\drawable\\grpb.jpg",
+        "source": "C:\\Users\\PRIYANKA\\AndroidStudioProjects\\Knowmore\\KiddoLearn\\app\\src\\main\\res\\drawable\\grpb.jpg"
+    },
+    {
+        "merged": "C:\\Users\\PRIYANKA\\AndroidStudioProjects\\Knowmore\\KiddoLearn\\app\\build\\intermediates\\res\\merged\\release\\drawable\\frui.jpg",
+        "source": "C:\\Users\\PRIYANKA\\AndroidStudioProjects\\Knowmore\\KiddoLearn\\app\\src\\main\\res\\drawable\\frui.jpg"
+    },
+    {
+        "merged": "C:\\Users\\PRIYANKA\\AndroidStudioProjects\\Knowmore\\KiddoLearn\\app\\build\\intermediates\\res\\merged\\release\\drawable\\hawks.jpg",
+        "source": "C:\\Users\\PRIYANKA\\AndroidStudioProjects\\Knowmore\\KiddoLearn\\app\\src\\main\\res\\drawable\\hawks.jpg"
+    },
+    {
+        "merged": "C:\\Users\\PRIYANKA\\AndroidStudioProjects\\Knowmore\\KiddoLearn\\app\\build\\intermediates\\res\\merged\\release\\drawable\\abc_spinner_textfield_background_material.xml",
+        "source": "C:\\Users\\PRIYANKA\\AndroidStudioProjects\\Knowmore\\KiddoLearn\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.0\\res\\drawable\\abc_spinner_textfield_background_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\PRIYANKA\\AndroidStudioProjects\\Knowmore\\KiddoLearn\\app\\build\\intermediates\\res\\merged\\release\\drawable\\abc_seekbar_thumb_material.xml",
+        "source": "C:\\Users\\PRIYANKA\\AndroidStudioProjects\\Knowmore\\KiddoLearn\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.0\\res\\drawable\\abc_seekbar_thumb_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\PRIYANKA\\AndroidStudioProjects\\Knowmore\\KiddoLearn\\app\\build\\intermediates\\res\\merged\\release\\drawable\\potato.jpg",
+        "source": "C:\\Users\\PRIYANKA\\AndroidStudioProjects\\Knowmore\\KiddoLearn\\app\\src\\main\\res\\drawable\\potato.jpg"
+    },
+    {
+        "merged": "C:\\Users\\PRIYANKA\\AndroidStudioProjects\\Knowmore\\KiddoLearn\\app\\build\\intermediates\\res\\merged\\release\\drawable\\abc_vector_test.xml",
+        "source": "C:\\Users\\PRIYANKA\\AndroidStudioProjects\\Knowmore\\KiddoLearn\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.0\\res\\drawable\\abc_vector_test.xml"
+    },
+    {
+        "merged": "C:\\Users\\PRIYANKA\\AndroidStudioProjects\\Knowmore\\KiddoLearn\\app\\build\\intermediates\\res\\merged\\release\\drawable\\tiger.jpg",
+        "source": "C:\\Users\\PRIYANKA\\AndroidStudioProjects\\Knowmore\\KiddoLearn\\app\\src\\main\\res\\drawable\\tiger.jpg"
+    },
+    {
+        "merged": "C:\\Users\\PRIYANKA\\AndroidStudioProjects\\Knowmore\\KiddoLearn\\app\\build\\intermediates\\res\\merged\\release\\drawable\\macaw.jpg",
+        "source": "C:\\Users\\PRIYANKA\\AndroidStudioProjects\\Knowmore\\KiddoLearn\\app\\src\\main\\res\\drawable\\macaw.jpg"
+    },
+    {
+        "merged": "C:\\Users\\PRIYANKA\\AndroidStudioProjects\\Knowmore\\KiddoLearn\\app\\build\\intermediates\\res\\merged\\release\\drawable\\abc_ic_search_api_material.xml",
+        "source": "C:\\Users\\PRIYANKA\\AndroidStudioProjects\\Knowmore\\KiddoLearn\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.0\\res\\drawable\\abc_ic_search_api_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\PRIYANKA\\AndroidStudioProjects\\Knowmore\\KiddoLearn\\app\\build\\intermediates\\res\\merged\\release\\drawable\\r13.png",
+        "source": "C:\\Users\\PRIYANKA\\AndroidStudioProjects\\Knowmore\\KiddoLearn\\app\\src\\main\\res\\drawable\\r13.png"
+    },
+    {
+        "merged": "C:\\Users\\PRIYANKA\\AndroidStudioProjects\\Knowmore\\KiddoLearn\\app\\build\\intermediates\\res\\merged\\release\\drawable\\happyl.png",
+        "source": "C:\\Users\\PRIYANKA\\AndroidStudioProjects\\Knowmore\\KiddoLearn\\app\\src\\main\\res\\drawable\\happyl.png"
+    },
+    {
+        "merged": "C:\\Users\\PRIYANKA\\AndroidStudioProjects\\Knowmore\\KiddoLearn\\app\\build\\intermediates\\res\\merged\\release\\drawable\\beek.png",
+        "source": "C:\\Users\\PRIYANKA\\AndroidStudioProjects\\Knowmore\\KiddoLearn\\app\\src\\main\\res\\drawable\\beek.png"
+    },
+    {
+        "merged": "C:\\Users\\PRIYANKA\\AndroidStudioProjects\\Knowmore\\KiddoLearn\\app\\build\\intermediates\\res\\merged\\release\\drawable\\abc_btn_radio_material.xml",
+        "source": "C:\\Users\\PRIYANKA\\AndroidStudioProjects\\Knowmore\\KiddoLearn\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.0\\res\\drawable\\abc_btn_radio_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\PRIYANKA\\AndroidStudioProjects\\Knowmore\\KiddoLearn\\app\\build\\intermediates\\res\\merged\\release\\drawable\\ora.jpg",
+        "source": "C:\\Users\\PRIYANKA\\AndroidStudioProjects\\Knowmore\\KiddoLearn\\app\\src\\main\\res\\drawable\\ora.jpg"
+    },
+    {
+        "merged": "C:\\Users\\PRIYANKA\\AndroidStudioProjects\\Knowmore\\KiddoLearn\\app\\build\\intermediates\\res\\merged\\release\\drawable\\beek6.png",
+        "source": "C:\\Users\\PRIYANKA\\AndroidStudioProjects\\Knowmore\\KiddoLearn\\app\\src\\main\\res\\drawable\\beek6.png"
+    },
+    {
+        "merged": "C:\\Users\\PRIYANKA\\AndroidStudioProjects\\Knowmore\\KiddoLearn\\app\\build\\intermediates\\res\\merged\\release\\drawable\\abc_ratingbar_material.xml",
+        "source": "C:\\Users\\PRIYANKA\\AndroidStudioProjects\\Knowmore\\KiddoLearn\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.0\\res\\drawable\\abc_ratingbar_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\PRIYANKA\\AndroidStudioProjects\\Knowmore\\KiddoLearn\\app\\build\\intermediates\\res\\merged\\release\\drawable\\beek2.png",
+        "source": "C:\\Users\\PRIYANKA\\AndroidStudioProjects\\Knowmore\\KiddoLearn\\app\\src\\main\\res\\drawable\\beek2.png"
+    },
+    {
+        "merged": "C:\\Users\\PRIYANKA\\AndroidStudioProjects\\Knowmore\\KiddoLearn\\app\\build\\intermediates\\res\\merged\\release\\drawable\\abc_seekbar_track_material.xml",
+        "source": "C:\\Users\\PRIYANKA\\AndroidStudioProjects\\Knowmore\\KiddoLearn\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.0\\res\\drawable\\abc_seekbar_track_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\PRIYANKA\\AndroidStudioProjects\\Knowmore\\KiddoLearn\\app\\build\\intermediates\\res\\merged\\release\\drawable\\dove.jpg",
+        "source": "C:\\Users\\PRIYANKA\\AndroidStudioProjects\\Knowmore\\KiddoLearn\\app\\src\\main\\res\\drawable\\dove.jpg"
+    },
+    {
+        "merged": "C:\\Users\\PRIYANKA\\AndroidStudioProjects\\Knowmore\\KiddoLearn\\app\\build\\intermediates\\res\\merged\\release\\drawable\\next2.png",
+        "source": "C:\\Users\\PRIYANKA\\AndroidStudioProjects\\Knowmore\\KiddoLearn\\app\\src\\main\\res\\drawable\\next2.png"
+    },
+    {
+        "merged": "C:\\Users\\PRIYANKA\\AndroidStudioProjects\\Knowmore\\KiddoLearn\\app\\build\\intermediates\\res\\merged\\release\\drawable\\abc_ic_clear_material.xml",
+        "source": "C:\\Users\\PRIYANKA\\AndroidStudioProjects\\Knowmore\\KiddoLearn\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.0\\res\\drawable\\abc_ic_clear_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\PRIYANKA\\AndroidStudioProjects\\Knowmore\\KiddoLearn\\app\\build\\intermediates\\res\\merged\\release\\drawable\\images57.jpg",
+        "source": "C:\\Users\\PRIYANKA\\AndroidStudioProjects\\Knowmore\\KiddoLearn\\app\\src\\main\\res\\drawable\\images57.jpg"
+    },
+    {
+        "merged": "C:\\Users\\PRIYANKA\\AndroidStudioProjects\\Knowmore\\KiddoLearn\\app\\build\\intermediates\\res\\merged\\release\\drawable\\abc_btn_default_mtrl_shape.xml",
+        "source": "C:\\Users\\PRIYANKA\\AndroidStudioProjects\\Knowmore\\KiddoLearn\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.0\\res\\drawable\\abc_btn_default_mtrl_shape.xml"
+    },
+    {
+        "merged": "C:\\Users\\PRIYANKA\\AndroidStudioProjects\\Knowmore\\KiddoLearn\\app\\build\\intermediates\\res\\merged\\release\\drawable\\images60.jpg",
+        "source": "C:\\Users\\PRIYANKA\\AndroidStudioProjects\\Knowmore\\KiddoLearn\\app\\src\\main\\res\\drawable\\images60.jpg"
+    },
+    {
+        "merged": "C:\\Users\\PRIYANKA\\AndroidStudioProjects\\Knowmore\\KiddoLearn\\app\\build\\intermediates\\res\\merged\\release\\drawable\\notification_icon_background.xml",
+        "source": "C:\\Users\\PRIYANKA\\AndroidStudioProjects\\Knowmore\\KiddoLearn\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.0\\res\\drawable\\notification_icon_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\PRIYANKA\\AndroidStudioProjects\\Knowmore\\KiddoLearn\\app\\build\\intermediates\\res\\merged\\release\\drawable\\flor.jpg",
+        "source": "C:\\Users\\PRIYANKA\\AndroidStudioProjects\\Knowmore\\KiddoLearn\\app\\src\\main\\res\\drawable\\flor.jpg"
+    },
+    {
+        "merged": "C:\\Users\\PRIYANKA\\AndroidStudioProjects\\Knowmore\\KiddoLearn\\app\\build\\intermediates\\res\\merged\\release\\drawable\\hummingbird.jpg",
+        "source": "C:\\Users\\PRIYANKA\\AndroidStudioProjects\\Knowmore\\KiddoLearn\\app\\src\\main\\res\\drawable\\hummingbird.jpg"
+    },
+    {
+        "merged": "C:\\Users\\PRIYANKA\\AndroidStudioProjects\\Knowmore\\KiddoLearn\\app\\build\\intermediates\\res\\merged\\release\\drawable\\blueb.jpg",
+        "source": "C:\\Users\\PRIYANKA\\AndroidStudioProjects\\Knowmore\\KiddoLearn\\app\\src\\main\\res\\drawable\\blueb.jpg"
+    },
+    {
+        "merged": "C:\\Users\\PRIYANKA\\AndroidStudioProjects\\Knowmore\\KiddoLearn\\app\\build\\intermediates\\res\\merged\\release\\drawable\\hm3.png",
+        "source": "C:\\Users\\PRIYANKA\\AndroidStudioProjects\\Knowmore\\KiddoLearn\\app\\src\\main\\res\\drawable\\hm3.png"
+    },
+    {
+        "merged": "C:\\Users\\PRIYANKA\\AndroidStudioProjects\\Knowmore\\KiddoLearn\\app\\build\\intermediates\\res\\merged\\release\\drawable\\start.png",
+        "source": "C:\\Users\\PRIYANKA\\AndroidStudioProjects\\Knowmore\\KiddoLearn\\app\\src\\main\\res\\drawable\\start.png"
+    },
+    {
+        "merged": "C:\\Users\\PRIYANKA\\AndroidStudioProjects\\Knowmore\\KiddoLearn\\app\\build\\intermediates\\res\\merged\\release\\drawable\\next4.png",
+        "source": "C:\\Users\\PRIYANKA\\AndroidStudioProjects\\Knowmore\\KiddoLearn\\app\\src\\main\\res\\drawable\\next4.png"
+    },
+    {
+        "merged": "C:\\Users\\PRIYANKA\\AndroidStudioProjects\\Knowmore\\KiddoLearn\\app\\build\\intermediates\\res\\merged\\release\\drawable\\back.png",
+        "source": "C:\\Users\\PRIYANKA\\AndroidStudioProjects\\Knowmore\\KiddoLearn\\app\\src\\main\\res\\drawable\\back.png"
+    },
+    {
+        "merged": "C:\\Users\\PRIYANKA\\AndroidStudioProjects\\Knowmore\\KiddoLearn\\app\\build\\intermediates\\res\\merged\\release\\drawable\\images59.jpg",
+        "source": "C:\\Users\\PRIYANKA\\AndroidStudioProjects\\Knowmore\\KiddoLearn\\app\\src\\main\\res\\drawable\\images59.jpg"
+    },
+    {
+        "merged": "C:\\Users\\PRIYANKA\\AndroidStudioProjects\\Knowmore\\KiddoLearn\\app\\build\\intermediates\\res\\merged\\release\\drawable\\ico5.png",
+        "source": "C:\\Users\\PRIYANKA\\AndroidStudioProjects\\Knowmore\\KiddoLearn\\app\\src\\main\\res\\drawable\\ico5.png"
+    },
+    {
+        "merged": "C:\\Users\\PRIYANKA\\AndroidStudioProjects\\Knowmore\\KiddoLearn\\app\\build\\intermediates\\res\\merged\\release\\drawable\\stawbry.jpg",
+        "source": "C:\\Users\\PRIYANKA\\AndroidStudioProjects\\Knowmore\\KiddoLearn\\app\\src\\main\\res\\drawable\\stawbry.jpg"
+    },
+    {
+        "merged": "C:\\Users\\PRIYANKA\\AndroidStudioProjects\\Knowmore\\KiddoLearn\\app\\build\\intermediates\\res\\merged\\release\\drawable\\beans.jpg",
+        "source": "C:\\Users\\PRIYANKA\\AndroidStudioProjects\\Knowmore\\KiddoLearn\\app\\src\\main\\res\\drawable\\beans.jpg"
+    },
+    {
+        "merged": "C:\\Users\\PRIYANKA\\AndroidStudioProjects\\Knowmore\\KiddoLearn\\app\\build\\intermediates\\res\\merged\\release\\drawable\\images62.jpg",
+        "source": "C:\\Users\\PRIYANKA\\AndroidStudioProjects\\Knowmore\\KiddoLearn\\app\\src\\main\\res\\drawable\\images62.jpg"
+    },
+    {
+        "merged": "C:\\Users\\PRIYANKA\\AndroidStudioProjects\\Knowmore\\KiddoLearn\\app\\build\\intermediates\\res\\merged\\release\\drawable\\cock.jpg",
+        "source": "C:\\Users\\PRIYANKA\\AndroidStudioProjects\\Knowmore\\KiddoLearn\\app\\src\\main\\res\\drawable\\cock.jpg"
+    },
+    {
+        "merged": "C:\\Users\\PRIYANKA\\AndroidStudioProjects\\Knowmore\\KiddoLearn\\app\\build\\intermediates\\res\\merged\\release\\drawable\\calliflower.jpg",
+        "source": "C:\\Users\\PRIYANKA\\AndroidStudioProjects\\Knowmore\\KiddoLearn\\app\\src\\main\\res\\drawable\\calliflower.jpg"
+    },
+    {
+        "merged": "C:\\Users\\PRIYANKA\\AndroidStudioProjects\\Knowmore\\KiddoLearn\\app\\build\\intermediates\\res\\merged\\release\\drawable\\sparrow.jpg",
+        "source": "C:\\Users\\PRIYANKA\\AndroidStudioProjects\\Knowmore\\KiddoLearn\\app\\src\\main\\res\\drawable\\sparrow.jpg"
+    },
+    {
+        "merged": "C:\\Users\\PRIYANKA\\AndroidStudioProjects\\Knowmore\\KiddoLearn\\app\\build\\intermediates\\res\\merged\\release\\drawable\\peepaltree.jpg",
+        "source": "C:\\Users\\PRIYANKA\\AndroidStudioProjects\\Knowmore\\KiddoLearn\\app\\src\\main\\res\\drawable\\peepaltree.jpg"
+    },
+    {
+        "merged": "C:\\Users\\PRIYANKA\\AndroidStudioProjects\\Knowmore\\KiddoLearn\\app\\build\\intermediates\\res\\merged\\release\\drawable\\arrr.png",
+        "source": "C:\\Users\\PRIYANKA\\AndroidStudioProjects\\Knowmore\\KiddoLearn\\app\\src\\main\\res\\drawable\\arrr.png"
+    },
+    {
+        "merged": "C:\\Users\\PRIYANKA\\AndroidStudioProjects\\Knowmore\\KiddoLearn\\app\\build\\intermediates\\res\\merged\\release\\drawable\\bee.jpeg",
+        "source": "C:\\Users\\PRIYANKA\\AndroidStudioProjects\\Knowmore\\KiddoLearn\\app\\src\\main\\res\\drawable\\bee.jpeg"
+    },
+    {
+        "merged": "C:\\Users\\PRIYANKA\\AndroidStudioProjects\\Knowmore\\KiddoLearn\\app\\build\\intermediates\\res\\merged\\release\\drawable\\jasmin.jpg",
+        "source": "C:\\Users\\PRIYANKA\\AndroidStudioProjects\\Knowmore\\KiddoLearn\\app\\src\\main\\res\\drawable\\jasmin.jpg"
+    },
+    {
+        "merged": "C:\\Users\\PRIYANKA\\AndroidStudioProjects\\Knowmore\\KiddoLearn\\app\\build\\intermediates\\res\\merged\\release\\drawable\\crow.jpg",
+        "source": "C:\\Users\\PRIYANKA\\AndroidStudioProjects\\Knowmore\\KiddoLearn\\app\\src\\main\\res\\drawable\\crow.jpg"
+    },
+    {
+        "merged": "C:\\Users\\PRIYANKA\\AndroidStudioProjects\\Knowmore\\KiddoLearn\\app\\build\\intermediates\\res\\merged\\release\\drawable\\blossom.jpg",
+        "source": "C:\\Users\\PRIYANKA\\AndroidStudioProjects\\Knowmore\\KiddoLearn\\app\\src\\main\\res\\drawable\\blossom.jpg"
+    },
+    {
+        "merged": "C:\\Users\\PRIYANKA\\AndroidStudioProjects\\Knowmore\\KiddoLearn\\app\\build\\intermediates\\res\\merged\\release\\drawable\\abc_switch_thumb_material.xml",
+        "source": "C:\\Users\\PRIYANKA\\AndroidStudioProjects\\Knowmore\\KiddoLearn\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.0\\res\\drawable\\abc_switch_thumb_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\PRIYANKA\\AndroidStudioProjects\\Knowmore\\KiddoLearn\\app\\build\\intermediates\\res\\merged\\release\\drawable\\banyantree.jpg",
+        "source": "C:\\Users\\PRIYANKA\\AndroidStudioProjects\\Knowmore\\KiddoLearn\\app\\src\\main\\res\\drawable\\banyantree.jpg"
+    },
+    {
+        "merged": "C:\\Users\\PRIYANKA\\AndroidStudioProjects\\Knowmore\\KiddoLearn\\app\\build\\intermediates\\res\\merged\\release\\drawable\\ostrich.jpg",
+        "source": "C:\\Users\\PRIYANKA\\AndroidStudioProjects\\Knowmore\\KiddoLearn\\app\\src\\main\\res\\drawable\\ostrich.jpg"
+    },
+    {
+        "merged": "C:\\Users\\PRIYANKA\\AndroidStudioProjects\\Knowmore\\KiddoLearn\\app\\build\\intermediates\\res\\merged\\release\\drawable\\mang.jpg",
+        "source": "C:\\Users\\PRIYANKA\\AndroidStudioProjects\\Knowmore\\KiddoLearn\\app\\src\\main\\res\\drawable\\mang.jpg"
+    },
+    {
+        "merged": "C:\\Users\\PRIYANKA\\AndroidStudioProjects\\Knowmore\\KiddoLearn\\app\\build\\intermediates\\res\\merged\\release\\drawable\\ico3.png",
+        "source": "C:\\Users\\PRIYANKA\\AndroidStudioProjects\\Knowmore\\KiddoLearn\\app\\src\\main\\res\\drawable\\ico3.png"
+    },
+    {
+        "merged": "C:\\Users\\PRIYANKA\\AndroidStudioProjects\\Knowmore\\KiddoLearn\\app\\build\\intermediates\\res\\merged\\release\\drawable\\beek4.png",
+        "source": "C:\\Users\\PRIYANKA\\AndroidStudioProjects\\Knowmore\\KiddoLearn\\app\\src\\main\\res\\drawable\\beek4.png"
+    },
+    {
+        "merged": "C:\\Users\\PRIYANKA\\AndroidStudioProjects\\Knowmore\\KiddoLearn\\app\\build\\intermediates\\res\\merged\\release\\drawable\\ost.jpg",
+        "source": "C:\\Users\\PRIYANKA\\AndroidStudioProjects\\Knowmore\\KiddoLearn\\app\\src\\main\\res\\drawable\\ost.jpg"
+    },
+    {
+        "merged": "C:\\Users\\PRIYANKA\\AndroidStudioProjects\\Knowmore\\KiddoLearn\\app\\build\\intermediates\\res\\merged\\release\\drawable\\fores.jpg",
+        "source": "C:\\Users\\PRIYANKA\\AndroidStudioProjects\\Knowmore\\KiddoLearn\\app\\src\\main\\res\\drawable\\fores.jpg"
+    },
+    {
+        "merged": "C:\\Users\\PRIYANKA\\AndroidStudioProjects\\Knowmore\\KiddoLearn\\app\\build\\intermediates\\res\\merged\\release\\drawable\\i3.jpg",
+        "source": "C:\\Users\\PRIYANKA\\AndroidStudioProjects\\Knowmore\\KiddoLearn\\app\\src\\main\\res\\drawable\\i3.jpg"
+    },
+    {
+        "merged": "C:\\Users\\PRIYANKA\\AndroidStudioProjects\\Knowmore\\KiddoLearn\\app\\build\\intermediates\\res\\merged\\release\\drawable\\pin.jpg",
+        "source": "C:\\Users\\PRIYANKA\\AndroidStudioProjects\\Knowmore\\KiddoLearn\\app\\src\\main\\res\\drawable\\pin.jpg"
+    },
+    {
+        "merged": "C:\\Users\\PRIYANKA\\AndroidStudioProjects\\Knowmore\\KiddoLearn\\app\\build\\intermediates\\res\\merged\\release\\drawable\\abc_list_selector_background_transition_holo_light.xml",
+        "source": "C:\\Users\\PRIYANKA\\AndroidStudioProjects\\Knowmore\\KiddoLearn\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.0\\res\\drawable\\abc_list_selector_background_transition_holo_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\PRIYANKA\\AndroidStudioProjects\\Knowmore\\KiddoLearn\\app\\build\\intermediates\\res\\merged\\release\\drawable\\images72.jpg",
+        "source": "C:\\Users\\PRIYANKA\\AndroidStudioProjects\\Knowmore\\KiddoLearn\\app\\src\\main\\res\\drawable\\images72.jpg"
+    },
+    {
+        "merged": "C:\\Users\\PRIYANKA\\AndroidStudioProjects\\Knowmore\\KiddoLearn\\app\\build\\intermediates\\res\\merged\\release\\drawable\\hpt.jpg",
+        "source": "C:\\Users\\PRIYANKA\\AndroidStudioProjects\\Knowmore\\KiddoLearn\\app\\src\\main\\res\\drawable\\hpt.jpg"
+    },
+    {
+        "merged": "C:\\Users\\PRIYANKA\\AndroidStudioProjects\\Knowmore\\KiddoLearn\\app\\build\\intermediates\\res\\merged\\release\\drawable\\download1.jpg",
+        "source": "C:\\Users\\PRIYANKA\\AndroidStudioProjects\\Knowmore\\KiddoLearn\\app\\src\\main\\res\\drawable\\download1.jpg"
+    },
+    {
+        "merged": "C:\\Users\\PRIYANKA\\AndroidStudioProjects\\Knowmore\\KiddoLearn\\app\\build\\intermediates\\res\\merged\\release\\drawable\\hawks2.jpg",
+        "source": "C:\\Users\\PRIYANKA\\AndroidStudioProjects\\Knowmore\\KiddoLearn\\app\\src\\main\\res\\drawable\\hawks2.jpg"
+    },
+    {
+        "merged": "C:\\Users\\PRIYANKA\\AndroidStudioProjects\\Knowmore\\KiddoLearn\\app\\build\\intermediates\\res\\merged\\release\\drawable\\eagle.jpg",
+        "source": "C:\\Users\\PRIYANKA\\AndroidStudioProjects\\Knowmore\\KiddoLearn\\app\\src\\main\\res\\drawable\\eagle.jpg"
+    },
+    {
+        "merged": "C:\\Users\\PRIYANKA\\AndroidStudioProjects\\Knowmore\\KiddoLearn\\app\\build\\intermediates\\res\\merged\\release\\drawable\\pegion.jpg",
+        "source": "C:\\Users\\PRIYANKA\\AndroidStudioProjects\\Knowmore\\KiddoLearn\\app\\src\\main\\res\\drawable\\pegion.jpg"
+    },
+    {
+        "merged": "C:\\Users\\PRIYANKA\\AndroidStudioProjects\\Knowmore\\KiddoLearn\\app\\build\\intermediates\\res\\merged\\release\\drawable\\download4.jpg",
+        "source": "C:\\Users\\PRIYANKA\\AndroidStudioProjects\\Knowmore\\KiddoLearn\\app\\src\\main\\res\\drawable\\download4.jpg"
+    },
+    {
+        "merged": "C:\\Users\\PRIYANKA\\AndroidStudioProjects\\Knowmore\\KiddoLearn\\app\\build\\intermediates\\res\\merged\\release\\drawable\\mnky.jpg",
+        "source": "C:\\Users\\PRIYANKA\\AndroidStudioProjects\\Knowmore\\KiddoLearn\\app\\src\\main\\res\\drawable\\mnky.jpg"
+    },
+    {
+        "merged": "C:\\Users\\PRIYANKA\\AndroidStudioProjects\\Knowmore\\KiddoLearn\\app\\build\\intermediates\\res\\merged\\release\\drawable\\walking.png",
+        "source": "C:\\Users\\PRIYANKA\\AndroidStudioProjects\\Knowmore\\KiddoLearn\\app\\src\\main\\res\\drawable\\walking.png"
+    },
+    {
+        "merged": "C:\\Users\\PRIYANKA\\AndroidStudioProjects\\Knowmore\\KiddoLearn\\app\\build\\intermediates\\res\\merged\\release\\drawable\\bn3.jpg",
+        "source": "C:\\Users\\PRIYANKA\\AndroidStudioProjects\\Knowmore\\KiddoLearn\\app\\src\\main\\res\\drawable\\bn3.jpg"
+    },
+    {
+        "merged": "C:\\Users\\PRIYANKA\\AndroidStudioProjects\\Knowmore\\KiddoLearn\\app\\build\\intermediates\\res\\merged\\release\\drawable\\nbeek1.png",
+        "source": "C:\\Users\\PRIYANKA\\AndroidStudioProjects\\Knowmore\\KiddoLearn\\app\\src\\main\\res\\drawable\\nbeek1.png"
+    },
+    {
+        "merged": "C:\\Users\\PRIYANKA\\AndroidStudioProjects\\Knowmore\\KiddoLearn\\app\\build\\intermediates\\res\\merged\\release\\drawable\\lion.jpg",
+        "source": "C:\\Users\\PRIYANKA\\AndroidStudioProjects\\Knowmore\\KiddoLearn\\app\\src\\main\\res\\drawable\\lion.jpg"
+    },
+    {
+        "merged": "C:\\Users\\PRIYANKA\\AndroidStudioProjects\\Knowmore\\KiddoLearn\\app\\build\\intermediates\\res\\merged\\release\\drawable\\images69.jpg",
+        "source": "C:\\Users\\PRIYANKA\\AndroidStudioProjects\\Knowmore\\KiddoLearn\\app\\src\\main\\res\\drawable\\images69.jpg"
+    },
+    {
+        "merged": "C:\\Users\\PRIYANKA\\AndroidStudioProjects\\Knowmore\\KiddoLearn\\app\\build\\intermediates\\res\\merged\\release\\drawable\\homebu.png",
+        "source": "C:\\Users\\PRIYANKA\\AndroidStudioProjects\\Knowmore\\KiddoLearn\\app\\src\\main\\res\\drawable\\homebu.png"
+    },
+    {
+        "merged": "C:\\Users\\PRIYANKA\\AndroidStudioProjects\\Knowmore\\KiddoLearn\\app\\build\\intermediates\\res\\merged\\release\\drawable\\download3.jpg",
+        "source": "C:\\Users\\PRIYANKA\\AndroidStudioProjects\\Knowmore\\KiddoLearn\\app\\src\\main\\res\\drawable\\download3.jpg"
+    },
+    {
+        "merged": "C:\\Users\\PRIYANKA\\AndroidStudioProjects\\Knowmore\\KiddoLearn\\app\\build\\intermediates\\res\\merged\\release\\drawable\\notification_bg.xml",
+        "source": "C:\\Users\\PRIYANKA\\AndroidStudioProjects\\Knowmore\\KiddoLearn\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.0\\res\\drawable\\notification_bg.xml"
+    },
+    {
+        "merged": "C:\\Users\\PRIYANKA\\AndroidStudioProjects\\Knowmore\\KiddoLearn\\app\\build\\intermediates\\res\\merged\\release\\drawable\\goat.jpg",
+        "source": "C:\\Users\\PRIYANKA\\AndroidStudioProjects\\Knowmore\\KiddoLearn\\app\\src\\main\\res\\drawable\\goat.jpg"
+    },
+    {
+        "merged": "C:\\Users\\PRIYANKA\\AndroidStudioProjects\\Knowmore\\KiddoLearn\\app\\build\\intermediates\\res\\merged\\release\\drawable\\abc_ic_ab_back_material.xml",
+        "source": "C:\\Users\\PRIYANKA\\AndroidStudioProjects\\Knowmore\\KiddoLearn\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.0\\res\\drawable\\abc_ic_ab_back_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\PRIYANKA\\AndroidStudioProjects\\Knowmore\\KiddoLearn\\app\\build\\intermediates\\res\\merged\\release\\drawable\\bettt.png",
+        "source": "C:\\Users\\PRIYANKA\\AndroidStudioProjects\\Knowmore\\KiddoLearn\\app\\src\\main\\res\\drawable\\bettt.png"
+    },
+    {
+        "merged": "C:\\Users\\PRIYANKA\\AndroidStudioProjects\\Knowmore\\KiddoLearn\\app\\build\\intermediates\\res\\merged\\release\\drawable\\hpy11.png",
+        "source": "C:\\Users\\PRIYANKA\\AndroidStudioProjects\\Knowmore\\KiddoLearn\\app\\src\\main\\res\\drawable\\hpy11.png"
+    },
+    {
+        "merged": "C:\\Users\\PRIYANKA\\AndroidStudioProjects\\Knowmore\\KiddoLearn\\app\\build\\intermediates\\res\\merged\\release\\drawable\\cat.jpg",
+        "source": "C:\\Users\\PRIYANKA\\AndroidStudioProjects\\Knowmore\\KiddoLearn\\app\\src\\main\\res\\drawable\\cat.jpg"
+    },
+    {
+        "merged": "C:\\Users\\PRIYANKA\\AndroidStudioProjects\\Knowmore\\KiddoLearn\\app\\build\\intermediates\\res\\merged\\release\\drawable\\nbeek6.png",
+        "source": "C:\\Users\\PRIYANKA\\AndroidStudioProjects\\Knowmore\\KiddoLearn\\app\\src\\main\\res\\drawable\\nbeek6.png"
+    },
+    {
+        "merged": "C:\\Users\\PRIYANKA\\AndroidStudioProjects\\Knowmore\\KiddoLearn\\app\\build\\intermediates\\res\\merged\\release\\drawable\\wolf.jpg",
+        "source": "C:\\Users\\PRIYANKA\\AndroidStudioProjects\\Knowmore\\KiddoLearn\\app\\src\\main\\res\\drawable\\wolf.jpg"
+    },
+    {
+        "merged": "C:\\Users\\PRIYANKA\\AndroidStudioProjects\\Knowmore\\KiddoLearn\\app\\build\\intermediates\\res\\merged\\release\\drawable\\abc_btn_check_material.xml",
+        "source": "C:\\Users\\PRIYANKA\\AndroidStudioProjects\\Knowmore\\KiddoLearn\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.0\\res\\drawable\\abc_btn_check_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\PRIYANKA\\AndroidStudioProjects\\Knowmore\\KiddoLearn\\app\\build\\intermediates\\res\\merged\\release\\drawable\\beek8.png",
+        "source": "C:\\Users\\PRIYANKA\\AndroidStudioProjects\\Knowmore\\KiddoLearn\\app\\src\\main\\res\\drawable\\beek8.png"
+    },
+    {
+        "merged": "C:\\Users\\PRIYANKA\\AndroidStudioProjects\\Knowmore\\KiddoLearn\\app\\build\\intermediates\\res\\merged\\release\\drawable\\abc_ratingbar_indicator_material.xml",
+        "source": "C:\\Users\\PRIYANKA\\AndroidStudioProjects\\Knowmore\\KiddoLearn\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.0\\res\\drawable\\abc_ratingbar_indicator_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\PRIYANKA\\AndroidStudioProjects\\Knowmore\\KiddoLearn\\app\\build\\intermediates\\res\\merged\\release\\drawable\\mangotree.jpg",
+        "source": "C:\\Users\\PRIYANKA\\AndroidStudioProjects\\Knowmore\\KiddoLearn\\app\\src\\main\\res\\drawable\\mangotree.jpg"
+    },
+    {
+        "merged": "C:\\Users\\PRIYANKA\\AndroidStudioProjects\\Knowmore\\KiddoLearn\\app\\build\\intermediates\\res\\merged\\release\\drawable\\images67.jpg",
+        "source": "C:\\Users\\PRIYANKA\\AndroidStudioProjects\\Knowmore\\KiddoLearn\\app\\src\\main\\res\\drawable\\images67.jpg"
+    },
+    {
+        "merged": "C:\\Users\\PRIYANKA\\AndroidStudioProjects\\Knowmore\\KiddoLearn\\app\\build\\intermediates\\res\\merged\\release\\drawable\\dog.jpg",
+        "source": "C:\\Users\\PRIYANKA\\AndroidStudioProjects\\Knowmore\\KiddoLearn\\app\\src\\main\\res\\drawable\\dog.jpg"
+    },
+    {
+        "merged": "C:\\Users\\PRIYANKA\\AndroidStudioProjects\\Knowmore\\KiddoLearn\\app\\build\\intermediates\\res\\merged\\release\\drawable\\trr.jpg",
+        "source": "C:\\Users\\PRIYANKA\\AndroidStudioProjects\\Knowmore\\KiddoLearn\\app\\src\\main\\res\\drawable\\trr.jpg"
+    },
+    {
+        "merged": "C:\\Users\\PRIYANKA\\AndroidStudioProjects\\Knowmore\\KiddoLearn\\app\\build\\intermediates\\res\\merged\\release\\drawable\\images70.jpg",
+        "source": "C:\\Users\\PRIYANKA\\AndroidStudioProjects\\Knowmore\\KiddoLearn\\app\\src\\main\\res\\drawable\\images70.jpg"
+    },
+    {
+        "merged": "C:\\Users\\PRIYANKA\\AndroidStudioProjects\\Knowmore\\KiddoLearn\\app\\build\\intermediates\\res\\merged\\release\\drawable\\style1.xml",
+        "source": "C:\\Users\\PRIYANKA\\AndroidStudioProjects\\Knowmore\\KiddoLearn\\app\\src\\main\\res\\drawable\\style1.xml"
+    },
+    {
+        "merged": "C:\\Users\\PRIYANKA\\AndroidStudioProjects\\Knowmore\\KiddoLearn\\app\\build\\intermediates\\res\\merged\\release\\drawable\\abc_ic_voice_search_api_material.xml",
+        "source": "C:\\Users\\PRIYANKA\\AndroidStudioProjects\\Knowmore\\KiddoLearn\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.0\\res\\drawable\\abc_ic_voice_search_api_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\PRIYANKA\\AndroidStudioProjects\\Knowmore\\KiddoLearn\\app\\build\\intermediates\\res\\merged\\release\\drawable\\nbeek5.png",
+        "source": "C:\\Users\\PRIYANKA\\AndroidStudioProjects\\Knowmore\\KiddoLearn\\app\\src\\main\\res\\drawable\\nbeek5.png"
+    },
+    {
+        "merged": "C:\\Users\\PRIYANKA\\AndroidStudioProjects\\Knowmore\\KiddoLearn\\app\\build\\intermediates\\res\\merged\\release\\drawable\\fruitc.jpg",
+        "source": "C:\\Users\\PRIYANKA\\AndroidStudioProjects\\Knowmore\\KiddoLearn\\app\\src\\main\\res\\drawable\\fruitc.jpg"
+    },
+    {
+        "merged": "C:\\Users\\PRIYANKA\\AndroidStudioProjects\\Knowmore\\KiddoLearn\\app\\build\\intermediates\\res\\merged\\release\\drawable\\lot1.jpg",
+        "source": "C:\\Users\\PRIYANKA\\AndroidStudioProjects\\Knowmore\\KiddoLearn\\app\\src\\main\\res\\drawable\\lot1.jpg"
+    },
+    {
+        "merged": "C:\\Users\\PRIYANKA\\AndroidStudioProjects\\Knowmore\\KiddoLearn\\app\\build\\intermediates\\res\\merged\\release\\drawable\\rtar.png",
+        "source": "C:\\Users\\PRIYANKA\\AndroidStudioProjects\\Knowmore\\KiddoLearn\\app\\src\\main\\res\\drawable\\rtar.png"
+    },
+    {
+        "merged": "C:\\Users\\PRIYANKA\\AndroidStudioProjects\\Knowmore\\KiddoLearn\\app\\build\\intermediates\\res\\merged\\release\\drawable\\beek10.png",
+        "source": "C:\\Users\\PRIYANKA\\AndroidStudioProjects\\Knowmore\\KiddoLearn\\app\\src\\main\\res\\drawable\\beek10.png"
+    },
+    {
+        "merged": "C:\\Users\\PRIYANKA\\AndroidStudioProjects\\Knowmore\\KiddoLearn\\app\\build\\intermediates\\res\\merged\\release\\drawable\\images71.jpg",
+        "source": "C:\\Users\\PRIYANKA\\AndroidStudioProjects\\Knowmore\\KiddoLearn\\app\\src\\main\\res\\drawable\\images71.jpg"
+    },
+    {
+        "merged": "C:\\Users\\PRIYANKA\\AndroidStudioProjects\\Knowmore\\KiddoLearn\\app\\build\\intermediates\\res\\merged\\release\\drawable\\ladiesfinger.jpg",
+        "source": "C:\\Users\\PRIYANKA\\AndroidStudioProjects\\Knowmore\\KiddoLearn\\app\\src\\main\\res\\drawable\\ladiesfinger.jpg"
+    },
+    {
+        "merged": "C:\\Users\\PRIYANKA\\AndroidStudioProjects\\Knowmore\\KiddoLearn\\app\\build\\intermediates\\res\\merged\\release\\drawable\\bee1.png",
+        "source": "C:\\Users\\PRIYANKA\\AndroidStudioProjects\\Knowmore\\KiddoLearn\\app\\src\\main\\res\\drawable\\bee1.png"
+    },
+    {
+        "merged": "C:\\Users\\PRIYANKA\\AndroidStudioProjects\\Knowmore\\KiddoLearn\\app\\build\\intermediates\\res\\merged\\release\\drawable\\veg4.jpg",
+        "source": "C:\\Users\\PRIYANKA\\AndroidStudioProjects\\Knowmore\\KiddoLearn\\app\\src\\main\\res\\drawable\\veg4.jpg"
+    },
+    {
+        "merged": "C:\\Users\\PRIYANKA\\AndroidStudioProjects\\Knowmore\\KiddoLearn\\app\\build\\intermediates\\res\\merged\\release\\drawable\\daisy.jpg",
+        "source": "C:\\Users\\PRIYANKA\\AndroidStudioProjects\\Knowmore\\KiddoLearn\\app\\src\\main\\res\\drawable\\daisy.jpg"
+    },
+    {
+        "merged": "C:\\Users\\PRIYANKA\\AndroidStudioProjects\\Knowmore\\KiddoLearn\\app\\build\\intermediates\\res\\merged\\release\\drawable\\i2.jpg",
+        "source": "C:\\Users\\PRIYANKA\\AndroidStudioProjects\\Knowmore\\KiddoLearn\\app\\src\\main\\res\\drawable\\i2.jpg"
+    },
+    {
+        "merged": "C:\\Users\\PRIYANKA\\AndroidStudioProjects\\Knowmore\\KiddoLearn\\app\\build\\intermediates\\res\\merged\\release\\drawable\\notification_bg_low.xml",
+        "source": "C:\\Users\\PRIYANKA\\AndroidStudioProjects\\Knowmore\\KiddoLearn\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.0\\res\\drawable\\notification_bg_low.xml"
+    },
+    {
+        "merged": "C:\\Users\\PRIYANKA\\AndroidStudioProjects\\Knowmore\\KiddoLearn\\app\\build\\intermediates\\res\\merged\\release\\drawable\\images161.jpg",
+        "source": "C:\\Users\\PRIYANKA\\AndroidStudioProjects\\Knowmore\\KiddoLearn\\app\\src\\main\\res\\drawable\\images161.jpg"
+    },
+    {
+        "merged": "C:\\Users\\PRIYANKA\\AndroidStudioProjects\\Knowmore\\KiddoLearn\\app\\build\\intermediates\\res\\merged\\release\\drawable\\go3.png",
+        "source": "C:\\Users\\PRIYANKA\\AndroidStudioProjects\\Knowmore\\KiddoLearn\\app\\src\\main\\res\\drawable\\go3.png"
+    },
+    {
+        "merged": "C:\\Users\\PRIYANKA\\AndroidStudioProjects\\Knowmore\\KiddoLearn\\app\\build\\intermediates\\res\\merged\\release\\drawable\\abc_ic_arrow_drop_right_black_24dp.xml",
+        "source": "C:\\Users\\PRIYANKA\\AndroidStudioProjects\\Knowmore\\KiddoLearn\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.0\\res\\drawable\\abc_ic_arrow_drop_right_black_24dp.xml"
+    },
+    {
+        "merged": "C:\\Users\\PRIYANKA\\AndroidStudioProjects\\Knowmore\\KiddoLearn\\app\\build\\intermediates\\res\\merged\\release\\drawable\\images68.jpg",
+        "source": "C:\\Users\\PRIYANKA\\AndroidStudioProjects\\Knowmore\\KiddoLearn\\app\\src\\main\\res\\drawable\\images68.jpg"
+    },
+    {
+        "merged": "C:\\Users\\PRIYANKA\\AndroidStudioProjects\\Knowmore\\KiddoLearn\\app\\build\\intermediates\\res\\merged\\release\\drawable\\fastforward.png",
+        "source": "C:\\Users\\PRIYANKA\\AndroidStudioProjects\\Knowmore\\KiddoLearn\\app\\src\\main\\res\\drawable\\fastforward.png"
+    },
+    {
+        "merged": "C:\\Users\\PRIYANKA\\AndroidStudioProjects\\Knowmore\\KiddoLearn\\app\\build\\intermediates\\res\\merged\\release\\drawable\\ls.jpg",
+        "source": "C:\\Users\\PRIYANKA\\AndroidStudioProjects\\Knowmore\\KiddoLearn\\app\\src\\main\\res\\drawable\\ls.jpg"
+    },
+    {
+        "merged": "C:\\Users\\PRIYANKA\\AndroidStudioProjects\\Knowmore\\KiddoLearn\\app\\build\\intermediates\\res\\merged\\release\\drawable\\penguin.jpg",
+        "source": "C:\\Users\\PRIYANKA\\AndroidStudioProjects\\Knowmore\\KiddoLearn\\app\\src\\main\\res\\drawable\\penguin.jpg"
+    },
+    {
+        "merged": "C:\\Users\\PRIYANKA\\AndroidStudioProjects\\Knowmore\\KiddoLearn\\app\\build\\intermediates\\res\\merged\\release\\drawable\\radish.jpg",
+        "source": "C:\\Users\\PRIYANKA\\AndroidStudioProjects\\Knowmore\\KiddoLearn\\app\\src\\main\\res\\drawable\\radish.jpg"
+    },
+    {
+        "merged": "C:\\Users\\PRIYANKA\\AndroidStudioProjects\\Knowmore\\KiddoLearn\\app\\build\\intermediates\\res\\merged\\release\\drawable\\abc_item_background_holo_light.xml",
+        "source": "C:\\Users\\PRIYANKA\\AndroidStudioProjects\\Knowmore\\KiddoLearn\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.0\\res\\drawable\\abc_item_background_holo_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\PRIYANKA\\AndroidStudioProjects\\Knowmore\\KiddoLearn\\app\\build\\intermediates\\res\\merged\\release\\drawable\\abc_ic_go_search_api_material.xml",
+        "source": "C:\\Users\\PRIYANKA\\AndroidStudioProjects\\Knowmore\\KiddoLearn\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.0\\res\\drawable\\abc_ic_go_search_api_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\PRIYANKA\\AndroidStudioProjects\\Knowmore\\KiddoLearn\\app\\build\\intermediates\\res\\merged\\release\\drawable\\next1.png",
+        "source": "C:\\Users\\PRIYANKA\\AndroidStudioProjects\\Knowmore\\KiddoLearn\\app\\src\\main\\res\\drawable\\next1.png"
+    },
+    {
+        "merged": "C:\\Users\\PRIYANKA\\AndroidStudioProjects\\Knowmore\\KiddoLearn\\app\\build\\intermediates\\res\\merged\\release\\drawable\\lftart.png",
+        "source": "C:\\Users\\PRIYANKA\\AndroidStudioProjects\\Knowmore\\KiddoLearn\\app\\src\\main\\res\\drawable\\lftart.png"
+    },
+    {
+        "merged": "C:\\Users\\PRIYANKA\\AndroidStudioProjects\\Knowmore\\KiddoLearn\\app\\build\\intermediates\\res\\merged\\release\\drawable\\ply1.png",
+        "source": "C:\\Users\\PRIYANKA\\AndroidStudioProjects\\Knowmore\\KiddoLearn\\app\\src\\main\\res\\drawable\\ply1.png"
+    },
+    {
+        "merged": "C:\\Users\\PRIYANKA\\AndroidStudioProjects\\Knowmore\\KiddoLearn\\app\\build\\intermediates\\res\\merged\\release\\drawable\\beek9.png",
+        "source": "C:\\Users\\PRIYANKA\\AndroidStudioProjects\\Knowmore\\KiddoLearn\\app\\src\\main\\res\\drawable\\beek9.png"
+    },
+    {
+        "merged": "C:\\Users\\PRIYANKA\\AndroidStudioProjects\\Knowmore\\KiddoLearn\\app\\build\\intermediates\\res\\merged\\release\\drawable\\blackcheet.jpg",
+        "source": "C:\\Users\\PRIYANKA\\AndroidStudioProjects\\Knowmore\\KiddoLearn\\app\\src\\main\\res\\drawable\\blackcheet.jpg"
+    },
+    {
+        "merged": "C:\\Users\\PRIYANKA\\AndroidStudioProjects\\Knowmore\\KiddoLearn\\app\\build\\intermediates\\res\\merged\\release\\drawable\\k1.jpg",
+        "source": "C:\\Users\\PRIYANKA\\AndroidStudioProjects\\Knowmore\\KiddoLearn\\app\\src\\main\\res\\drawable\\k1.jpg"
+    },
+    {
+        "merged": "C:\\Users\\PRIYANKA\\AndroidStudioProjects\\Knowmore\\KiddoLearn\\app\\build\\intermediates\\res\\merged\\release\\drawable\\bear.jpg",
+        "source": "C:\\Users\\PRIYANKA\\AndroidStudioProjects\\Knowmore\\KiddoLearn\\app\\src\\main\\res\\drawable\\bear.jpg"
+    },
+    {
+        "merged": "C:\\Users\\PRIYANKA\\AndroidStudioProjects\\Knowmore\\KiddoLearn\\app\\build\\intermediates\\res\\merged\\release\\drawable\\jungle.jpg",
+        "source": "C:\\Users\\PRIYANKA\\AndroidStudioProjects\\Knowmore\\KiddoLearn\\app\\src\\main\\res\\drawable\\jungle.jpg"
+    },
+    {
+        "merged": "C:\\Users\\PRIYANKA\\AndroidStudioProjects\\Knowmore\\KiddoLearn\\app\\build\\intermediates\\res\\merged\\release\\drawable\\hm1.png",
+        "source": "C:\\Users\\PRIYANKA\\AndroidStudioProjects\\Knowmore\\KiddoLearn\\app\\src\\main\\res\\drawable\\hm1.png"
+    },
+    {
+        "merged": "C:\\Users\\PRIYANKA\\AndroidStudioProjects\\Knowmore\\KiddoLearn\\app\\build\\intermediates\\res\\merged\\release\\drawable\\images58.jpg",
+        "source": "C:\\Users\\PRIYANKA\\AndroidStudioProjects\\Knowmore\\KiddoLearn\\app\\src\\main\\res\\drawable\\images58.jpg"
+    },
+    {
+        "merged": "C:\\Users\\PRIYANKA\\AndroidStudioProjects\\Knowmore\\KiddoLearn\\app\\build\\intermediates\\res\\merged\\release\\drawable\\abc_btn_borderless_material.xml",
+        "source": "C:\\Users\\PRIYANKA\\AndroidStudioProjects\\Knowmore\\KiddoLearn\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.0\\res\\drawable\\abc_btn_borderless_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\PRIYANKA\\AndroidStudioProjects\\Knowmore\\KiddoLearn\\app\\build\\intermediates\\res\\merged\\release\\drawable\\hen.jpg",
+        "source": "C:\\Users\\PRIYANKA\\AndroidStudioProjects\\Knowmore\\KiddoLearn\\app\\src\\main\\res\\drawable\\hen.jpg"
+    },
+    {
+        "merged": "C:\\Users\\PRIYANKA\\AndroidStudioProjects\\Knowmore\\KiddoLearn\\app\\build\\intermediates\\res\\merged\\release\\drawable\\neemtree.jpg",
+        "source": "C:\\Users\\PRIYANKA\\AndroidStudioProjects\\Knowmore\\KiddoLearn\\app\\src\\main\\res\\drawable\\neemtree.jpg"
+    },
+    {
+        "merged": "C:\\Users\\PRIYANKA\\AndroidStudioProjects\\Knowmore\\KiddoLearn\\app\\build\\intermediates\\res\\merged\\release\\drawable\\manoranjitham.jpg",
+        "source": "C:\\Users\\PRIYANKA\\AndroidStudioProjects\\Knowmore\\KiddoLearn\\app\\src\\main\\res\\drawable\\manoranjitham.jpg"
+    },
+    {
+        "merged": "C:\\Users\\PRIYANKA\\AndroidStudioProjects\\Knowmore\\KiddoLearn\\app\\build\\intermediates\\res\\merged\\release\\drawable\\hpy.png",
+        "source": "C:\\Users\\PRIYANKA\\AndroidStudioProjects\\Knowmore\\KiddoLearn\\app\\src\\main\\res\\drawable\\hpy.png"
+    },
+    {
+        "merged": "C:\\Users\\PRIYANKA\\AndroidStudioProjects\\Knowmore\\KiddoLearn\\app\\build\\intermediates\\res\\merged\\release\\drawable\\beek3.png",
+        "source": "C:\\Users\\PRIYANKA\\AndroidStudioProjects\\Knowmore\\KiddoLearn\\app\\src\\main\\res\\drawable\\beek3.png"
+    }
+]

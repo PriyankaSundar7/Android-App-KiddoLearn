@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="tree_image1">
+
+        <item>BanyanTree</item>
+        <item>SalTree</item>
+        <item>Bananatree</item>
+        <item>PeepalTree</item>
+        <item>NeemTree</item>
+        <item>Mangotree</item>
+        <item>Gulmohar</item>
+
+    </string-array>
+
+    <integer-array name="tree_image">
+        <item>@drawable/banyantree</item>
+        <item>@drawable/saltree</item>
+        <item>@drawable/bananatree</item>
+        <item>@drawable/peepaltree</item>
+        <item>@drawable/neemtree</item>
+        <item>@drawable/mangotree</item>
+        <item>@drawable/gulmohar</item>
+    </integer-array>
+</resources>

@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="fru_image1">
+
+        <item>apple</item>
+        <item>orange</item>
+        <item>banana</item>
+        <item>GreenGrapes</item>
+        <item>BlackGrapes</item>
+        <item>Cherry</item>
+        <item>Strawberry</item>
+        <item>Gauva</item>
+        <item>Blueberry</item>
+        <item>Kiwi</item>
+        <item>LoganBerry</item>
+        <item>WaterMelon</item>
+        <item>Pomegranet</item>
+
+    </string-array>
+
+    <integer-array name="fru_image">
+        <item>@drawable/appl</item>
+        <item>@drawable/ora</item>
+        <item>@drawable/banana1</item>
+        <item>@drawable/grpg</item>
+        <item>@drawable/grpb</item>
+        <item>@drawable/cherry</item>
+        <item>@drawable/stawbry</item>
+        <item>@drawable/gova</item>
+        <item>@drawable/blueb</item>
+        <item>@drawable/kiwi</item>
+        <item>@drawable/logenberry</item>
+        <item>@drawable/watr</item>
+        <item>@drawable/pome</item>
+
+
+
+    </integer-array>
+</resources>

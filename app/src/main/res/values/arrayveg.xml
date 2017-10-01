@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="veg_image1">
+
+        <item>Carrot</item>
+        <item>Beans</item>
+        <item>Radish</item>
+        <item>Beetroot</item>
+        <item>Gabbie</item>
+        <item>Calliflower</item>
+        <item>Tomato</item>
+        <item>Potato</item>
+        <item>LadiesFinger</item>
+        <item>Onion</item>
+
+    </string-array>
+
+    <integer-array name="veg_image">
+        <item>@drawable/carrot</item>
+        <item>@drawable/beans</item>
+        <item>@drawable/radish</item>
+        <item>@drawable/beetroot</item>
+        <item>@drawable/gabbie</item>
+        <item>@drawable/calliflower</item>
+        <item>@drawable/tomato</item>
+        <item>@drawable/potato</item>
+        <item>@drawable/ladiesfinger</item>
+        <item>@drawable/onion</item>
+    </integer-array>
+</resources>

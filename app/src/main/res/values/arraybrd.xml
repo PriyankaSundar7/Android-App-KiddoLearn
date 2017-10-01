@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="birds_image1">
+
+        <item>Macaw</item>
+        <item>Dove</item>
+        <item>Parrot</item>
+        <item>Eagle</item>
+        <item>Peacock</item>
+        <item>Cock</item>
+        <item>Crow</item>
+        <item>Hawks</item>
+        <item>Hen</item>
+        <item>Pegion</item>
+        <item>Penguin</item>
+        <item>Pelican</item>
+        <item>Ostrich</item>
+        <item>WoodPeckwer</item>
+        <item>Vulture</item>
+    </string-array>
+
+    <integer-array name="birds_image">
+
+        <item>@drawable/macaw</item>
+        <item>@drawable/dove</item>
+        <item>@drawable/parrot</item>
+        <item>@drawable/eagle</item>
+        <item>@drawable/peacock</item>
+        <item>@drawable/cock</item>
+        <item>@drawable/crow</item>
+        <item>@drawable/hawks2</item>
+        <item>@drawable/hen</item>
+        <item>@drawable/pegion</item>
+        <item>@drawable/penguin</item>
+        <item>@drawable/pelican</item>
+        <item>@drawable/ost</item>
+        <item>@drawable/woodpecker</item>
+        <item>@drawable/vulture1</item>
+
+    </integer-array>
+
+</resources>
